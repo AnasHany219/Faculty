@@ -199,7 +199,6 @@ numbers.forEach((number) {
   print('Number: $number');
 });
 ```
-
 # Collections
 
 - **Definition**: 
@@ -215,10 +214,20 @@ numbers.forEach((number) {
 ```dart
 List<int> numbers = [1, 2, 3, 4, 5];
 print(numbers[0]); // Output: 1
+
+// Additional methods:
+numbers.add(6); // Adds an element to the end of the list.
+numbers.addAll([7, 8]); // Adds all elements from another list to the end of this list.
+numbers.insert(0, 0); // Inserts an element at the specified index.
+numbers.remove(3); // Removes the first occurrence of the specified value.
+numbers.removeAt(1); // Removes the element at the specified index.
+print(numbers); // Output: [0, 2, 4, 5, 6, 7, 8]
 ```
+
 ### Map
 
-- **Definition**: A map is a collection of `key-value pairs`, where each key is unique and maps to a corresponding value. `Keys` and `values` can be of `any data type`.
+- **Definition**: 
+	- A map is a collection of `key-value pairs`, where each key is unique and maps to a corresponding value. `Keys` and `values` can be of `any data type`.
 - **Example**: 
 
 ```dart
@@ -228,8 +237,17 @@ Map<String, int> scores = {
   'Bob': 95,
 };
 print(scores['Alice']); // Output: 85
-```
 
+// Additional methods:
+print(scores.entries); // Prints all key-value pairs.
+print(scores.keys); // Prints all keys.
+print(scores.values); // Prints all values.
+scores['Charlie'] = 88; // Inserts a new key-value pair.
+scores.remove('Alice'); // Removes the entry with the specified key.
+print(scores.isEmpty); // Checks if the map is empty.
+print(scores.isNotEmpty); // Checks if the map is not empty.
+print(scores.containsKey('Bob')); // Checks if the map contains a key.
+```
 # Stack and Heap
 
 - **Definition**: In Dart, memory is divided into two main areas: the `stack` and the `heap`.
@@ -261,3 +279,48 @@ void main() {
 ```
 
 - **Reference Variables**: Reference variables hold references (memory addresses) to objects stored in the heap.
+# `is` and `as` Keywords in Dart
+
+## `is` Keyword
+
+- **Usage**: 
+  - The `is` keyword is used to check if an object is an instance of a particular type at runtime.
+  - It returns `true` if the object is an instance of the specified type, otherwise `false`.
+
+- **Example**:
+
+```dart
+void main() {
+  String text = 'Hello';
+  
+  // Checking if 'text' is a String.
+  if (text is String) {
+    print('Text is a String');
+  } else {
+    print('Text is not a String');
+  }
+}
+```
+
+## `as` Keyword
+
+- **Usage**: 
+  - The `as` keyword is used for type casting or type conversion in Dart.
+  - It attempts to cast an object to a specified type. If successful, it returns the object with the specified type; otherwise, it returns `null`.
+
+- **Example**:
+
+```dart
+void main() {
+  dynamic value = 10; // Dynamic variable
+  
+  // Casting 'value' to an int.
+  int? number = value as int?;
+  if (number != null) {
+    print('Number: $number');
+  } else {
+    print('Value cannot be cast to an int');
+  }
+}
+```
+

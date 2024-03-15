@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "61eba65abdf4c9a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "db3a87dda4dc3c32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88a0532d54a64a08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f197df6ec01b2be",
+    "type": "split",
+    "children": [
+      {
+        "id": "85189606692f6934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a53871fa242aa15b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c43d997ef0b9f53c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f8fc77ea9aa7c31",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "497e50e10713b051",
+    "type": "split",
+    "children": [
+      {
+        "id": "17f881e0b4d2bdb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fca1339da9f5460f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1943e2c2780d1290",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d1278c2381a2683",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "acef6e83ced5b6ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "88a0532d54a64a08",
+  "lastOpenFiles": [
+    "3rd-Year/second-Term/Android/Section/Dart/Section 3 - OOP.md",
+    "3rd-Year/second-Term/Android/Section/Dart/Section 1 - Basics.md",
+    "3rd-Year/second-Term/Android/Section/Dart/Section 2 - OOP.md",
+    "3rd-Year/second-Term/Algorithms/Lecture 02 - Running time.md",
+    "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
+    "3rd-Year/second-Term/Algorithms/Lecture 03 - Asymptotic Notations.md",
+    "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
+    "3rd-Year/second-Term/Android/Section/Dart",
+    "3rd-Year/second-Term/Android/Section",
+    "3rd-Year/second-Term/Android",
+    "3rd-Year/second-Term/Security/images/Active-Attack.png",
+    "3rd-Year/second-Term/Security/images/Passive-Attacks.png",
+    "3rd-Year/second-Term/Security/images/Key-Security-Concepts.png",
+    "3rd-Year/second-Term/Security/images",
+    "3rd-Year/second-Term/Algorithms/Lecture 01 - Introduction.md",
+    "3rd-Year/second-Term/Security",
+    "3rd-Year/second-Term/Algorithms/images/Big-Omega.png",
+    "Welcome.md",
+    "3rd-Year/second-Term/Algorithms/images/Sum-Equations.png",
+    "3rd-Year/second-Term/Algorithms/Lecture 03 - Asymptotic Notations 1.md",
+    "3rd-Year/second-Term/Algorithms/images/Big-Theta.png",
+    "Pasted image 20240310232419.png",
+    "3rd-Year/second-Term/Algorithms/images/o-notation.png",
+    "3rd-Year/second-Term/Algorithms/images/Asymptotic Notations.png",
+    "Pasted image 20240310224452.png",
+    "Untitled",
+    "image1.md",
+    "images/run-time-1.md",
+    "images",
+    "3rd-Year/second-Term/Algorithms/Summaries.md",
+    "3rd-Year/second-Term/Algorithms/images",
+    "3rd-Year/second-Term/Algorithms/img",
+    "3rd-Year/second-Term/Algorithms/New folder",
+    "file name 2 etc.md",
+    "file name etc.md",
+    "3rd-Year.md"
+  ]
+}

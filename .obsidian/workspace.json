@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "db3a87dda4dc3c32",
+        "id": "26a0864af3fd132b",
         "type": "tabs",
         "children": [
           {
-            "id": "88a0532d54a64a08",
+            "id": "e933a140453f2dc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
+                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
+                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
+                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md"
+                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md"
               }
             }
           }
@@ -146,13 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88a0532d54a64a08",
+  "active": "e933a140453f2dc5",
   "lastOpenFiles": [
+    "3rd-Year/second-Term/Security/images/des.png",
+    "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
+    "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
     "3rd-Year/second-Term/Android/Section/Dart/Section 3 - OOP.md",
     "3rd-Year/second-Term/Android/Section/Dart/Section 1 - Basics.md",
     "3rd-Year/second-Term/Android/Section/Dart/Section 2 - OOP.md",
     "3rd-Year/second-Term/Algorithms/Lecture 02 - Running time.md",
-    "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
     "3rd-Year/second-Term/Algorithms/Lecture 03 - Asymptotic Notations.md",
     "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
     "3rd-Year/second-Term/Android/Section/Dart",
@@ -171,8 +173,6 @@
     "3rd-Year/second-Term/Algorithms/images/Big-Theta.png",
     "Pasted image 20240310232419.png",
     "3rd-Year/second-Term/Algorithms/images/o-notation.png",
-    "3rd-Year/second-Term/Algorithms/images/Asymptotic Notations.png",
-    "Pasted image 20240310224452.png",
     "Untitled",
     "image1.md",
     "images/run-time-1.md",

@@ -36,7 +36,7 @@
 - `Cryptanalytic Attack`: Breaks encryption by analyzing ciphertext, exploiting algorithm or key weaknesses.
 - `Brute Force Attack`: Tries all possible keys until the correct one is found.
 ## Classical Substitution Ciphers: 
-### 1) Caesar Cipher
+### 01) Caesar Cipher
 - `Key`: Same for both encryption and decryption (private).
 - `Encrypt`: Combine plain text with a key (shift) to produce cipher text using the formula:
 $$C(char) = (p + k) \ mod \ n$$
@@ -61,7 +61,7 @@ $$P(char) = (c - k) \ mod  \ n$$
 
 <hr>
 
-### 2) Merging Playfair Cipher:
+### 02) Merging Playfair Cipher:
 
 #### **Playfair Cipher:**
 - **Key:** Non-repeating, non-meaningful keyphrase or keyword.
@@ -114,7 +114,7 @@ $$\large c.t = qp \ im \ li \ zd \ ra \ pi \ km \ na \ lc \ il \ es \ se \ na \ 
 
 <hr>
 
-### 3) Monoalphabetic Cipher: Reversed Alphabet 🔄
+### 03) Monoalphabetic Cipher: Reversed Alphabet 🔄
 
 - A `monoalphabetic cipher` is a type of substitution `cipher` where each letter in the plaintext is consistently replaced with another letter throughout the entire message. 
 - In this case, we'll explore a `monoalphabetic cipher` where the characters are replaced with their `corresponding characters` from the `reversed alphabet`.
@@ -139,7 +139,8 @@ Let's take the plaintext `"hello"` as an example:
 So, the encrypted ciphertext for "hello" using the reversed alphabet monoalphabetic cipher is "svool".
 
 <hr>
-### 4) Vigenère Cipher 🔑
+
+### 04) Vigenère Cipher 🔑
 
 - The Vigenère Cipher is a polyalphabetic substitution cipher, which means it uses multiple alphabets to encrypt the plaintext. 
 - It is considered more secure than monoalphabetic ciphers because it uses a keyword to determine the shifting of letters in the plaintext. 
@@ -183,7 +184,7 @@ g  i - y  n  s  - u  l  c  g  m  r  s  i  h  n  - w  y  r  s  - p  r  g  v  q  a
 
 <hr>
 
-### 5) Vernam Cipher: 🛡️
+### 05) Vernam Cipher: 🛡️
 
 - The Vernam Cipher is a **symmetric encryption** algorithm where each bit of the plaintext is XORed (⊕) with the corresponding bit of a randomly generated key to produce the ciphertext.
 - It provides **perfect secrecy** when the key is truly random, has the same length as the plaintext, and is never reused. 🔒
@@ -220,7 +221,7 @@ Ciphertext:  I     P     F     Y     A
 
 <hr>
 
-### 6) Polyalphabetic Cipher:
+### 06) Polyalphabetic Cipher:
 
 #### Explanation:
 - The Polyalphabetic Cipher is a type of encryption where multiple substitution alphabets are used. 
@@ -255,7 +256,7 @@ Converted:       O  I  C  L  V  L  B  Q  U  S  X  Y  I  M  W
 
 <hr>
 
-### 7) One-Time Pad Encryption: Unbreakable Security
+### 07) One-Time Pad Encryption: Unbreakable Security
 
 - A theoretically unbreakable encryption method when used correctly.
 - It utilizes a key that is **at least** as long as the plaintext and is **truly random**.
@@ -280,7 +281,7 @@ Converted:       K  C  N  I  O  Q  E  H  J
 
 <hr>
 
-### 8) Row Transposition Cipher:
+### 08) Row Transposition Cipher:
 
 - The Row Transposition Cipher is a transposition cipher where the plaintext is written out in rows of a fixed length, and then read out again `column by column`, but in a different order determined by a keyword.
 - It provides a simple form of encryption by rearranging the order of the characters in the plaintext based on the given keyword.
@@ -311,7 +312,7 @@ Ciphertext: oteniz nmogeg faniry irinen
 
 <hr>
 
-### 9) Rail Fence Cipher:
+### 09) Rail Fence Cipher:
 
 - The Rail Fence Cipher is a transposition cipher that rearranges the plaintext characters in a zigzag pattern across multiple "rails" or "rows" before reading them off for encryption.
 - It provides a simple form of encryption by writing the plaintext characters in a zigzag pattern across a specified number of rows, and then reading them off in a linear fashion.
@@ -335,3 +336,5 @@ Ciphertext / 2: MEMATRHTGPRY / ETEFETEOEAT
 Pi: M  E  M  A  T  R  H  T  G  P  R  Y
       E  T  E  F  E  T  E  O  E  A  T
 ```
+
+

@@ -60,6 +60,7 @@ $$P(char) = (c - k) \ mod  \ n$$
  - Decrypted Text: "HELLO"
 
 <hr>
+
 ### 2) Merging Playfair Cipher:
 
 #### **Playfair Cipher:**
@@ -112,6 +113,7 @@ $$\large rx \rightarrow az$$
 $$\large c.t = qp \ im \ li \ zd \ ra \ pi \ km \ na \ lc \ il \ es \ se \ na \ hr \ su \ sm \ az$$
 
 <hr>
+
 ### 3) Monoalphabetic Cipher: Reversed Alphabet 🔄
 
 - A `monoalphabetic cipher` is a type of substitution `cipher` where each letter in the plaintext is consistently replaced with another letter throughout the entire message. 

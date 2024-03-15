@@ -60,7 +60,7 @@ $$P(char) = (c - k) \ mod  \ n$$
  - Decrypted Text: "HELLO"
 
 <hr>
-### **2) Merging Playfair Cipher:**
+### 2) Merging Playfair Cipher:
 
 #### **Playfair Cipher:**
 - **Key:** Non-repeating, non-meaningful keyphrase or keyword.

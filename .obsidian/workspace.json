@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
+                "file": "3rd-Year/second-Term/Machine learning/Section/Section 3 - Data preprocessing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
+                "file": "3rd-Year/second-Term/Machine learning/Section/Section 3 - Data preprocessing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
+                "file": "3rd-Year/second-Term/Machine learning/Section/Section 3 - Data preprocessing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md"
+                "file": "3rd-Year/second-Term/Machine learning/Section/Section 3 - Data preprocessing.md"
               }
             }
           }
@@ -148,6 +148,20 @@
   },
   "active": "e933a140453f2dc5",
   "lastOpenFiles": [
+    "3rd-Year/second-Term/Machine learning/Section/Section 2 - Data preprocessing & Visualization.md",
+    "3rd-Year/second-Term/Machine learning/Section/Section 1 - Python from scratch.md",
+    "3rd-Year/second-Term/Machine learning/Section/Section 3 - Data preprocessing.md",
+    "3rd-Year/second-Term/Machine learning/Section/img/Box-Plot.png",
+    "3rd-Year/second-Term/Machine learning/Section/img/Scatter-Plot.png",
+    "3rd-Year/second-Term/Machine learning/Section/img/Line-Plot.png",
+    "3rd-Year/second-Term/Machine learning/Section/img/Box-Plot.png",
+    "3rd-Year/second-Term/Machine learning/Section/img/Scatter-Plot.png",
+    "3rd-Year/second-Term/Machine learning/Section/img",
+    "3rd-Year/second-Term/Machine learning/Section/img/Line-Plot.png",
+    "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
+    "3rd-Year/second-Term/Machine learning/Section",
+    "3rd-Year/second-Term/Machine learning",
+    "3rd-Year/second-Term/Untitled.md",
     "3rd-Year/second-Term/Android/Section/Dart/Section 3 - OOP.md",
     "3rd-Year/second-Term/Android/Section/Dart/Section 2 - OOP.md",
     "3rd-Year/second-Term/Android/Section/Dart/Section 1 - Basics.md",
@@ -156,7 +170,6 @@
     "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
     "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
     "2024-03-15.md",
-    "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
     "3rd-Year/second-Term/Security/images/DES.png",
     "3rd-Year/second-Term/Android/Section/Dart/Section 4 - OOP.md",
     "3rd-Year/second-Term/Security/images/des.png",
@@ -166,24 +179,15 @@
     "3rd-Year/second-Term/Android",
     "3rd-Year/second-Term/Security/images/Active-Attack.png",
     "3rd-Year/second-Term/Security/images/Passive-Attacks.png",
-    "3rd-Year/second-Term/Security/images/Key-Security-Concepts.png",
     "3rd-Year/second-Term/Security/images",
     "3rd-Year/second-Term/Security",
-    "3rd-Year/second-Term/Algorithms/images/Big-Omega.png",
     "Welcome.md",
-    "3rd-Year/second-Term/Algorithms/images/Sum-Equations.png",
     "3rd-Year/second-Term/Algorithms/Lecture 03 - Asymptotic Notations 1.md",
-    "3rd-Year/second-Term/Algorithms/images/Big-Theta.png",
-    "Pasted image 20240310232419.png",
-    "3rd-Year/second-Term/Algorithms/images/o-notation.png",
     "Untitled",
     "image1.md",
     "images/run-time-1.md",
     "images",
     "3rd-Year/second-Term/Algorithms/Summaries.md",
-    "3rd-Year/second-Term/Algorithms/images",
-    "3rd-Year/second-Term/Algorithms/img",
-    "3rd-Year/second-Term/Algorithms/New folder",
     "file name 2 etc.md",
     "file name etc.md",
     "3rd-Year.md"

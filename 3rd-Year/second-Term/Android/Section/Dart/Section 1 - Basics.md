@@ -114,3 +114,5 @@ void main() {
   // Replaces characters in 's1' starting from index 10 (inclusive) up to index 16 (exclusive) with the string 'Anas' and prints the result.
   print(s1.replaceRange(10, 16, 'Anas'));
 ```
+
+[[Section 2 - OOP]]

@@ -132,3 +132,5 @@ Explanation:
 - When an instance of `Student` or `Doctor` is created, it can access both the inherited properties/methods from `Person` and its own properties/methods specific to the subclass.
 
 Inheritance allows you to create a hierarchy of classes, promoting code reuse and structuring your code in a more logical and organized manner.
+
+[[Section 4 - OOP]]

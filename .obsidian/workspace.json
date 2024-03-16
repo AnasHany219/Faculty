@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3rd-Year/second-Term/Android/Section/Dart/Section 4 - OOP.md",
+                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/Android/Section/Dart/Section 4 - OOP.md",
+                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/Android/Section/Dart/Section 4 - OOP.md",
+                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/Android/Section/Dart/Section 4 - OOP.md"
+                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md"
               }
             }
           }
@@ -149,15 +149,18 @@
   "active": "e933a140453f2dc5",
   "lastOpenFiles": [
     "3rd-Year/second-Term/Android/Section/Dart/Section 3 - OOP.md",
-    "3rd-Year/second-Term/Android/Section/Dart/Section 4 - OOP.md",
-    "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
-    "3rd-Year/second-Term/Security/images/des.png",
-    "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
-    "3rd-Year/second-Term/Android/Section/Dart/Section 1 - Basics.md",
     "3rd-Year/second-Term/Android/Section/Dart/Section 2 - OOP.md",
+    "3rd-Year/second-Term/Android/Section/Dart/Section 1 - Basics.md",
     "3rd-Year/second-Term/Algorithms/Lecture 02 - Running time.md",
-    "3rd-Year/second-Term/Algorithms/Lecture 03 - Asymptotic Notations.md",
+    "3rd-Year/second-Term/Algorithms/Lecture 01 - Introduction.md",
+    "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
     "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
+    "2024-03-15.md",
+    "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
+    "3rd-Year/second-Term/Security/images/DES.png",
+    "3rd-Year/second-Term/Android/Section/Dart/Section 4 - OOP.md",
+    "3rd-Year/second-Term/Security/images/des.png",
+    "3rd-Year/second-Term/Algorithms/Lecture 03 - Asymptotic Notations.md",
     "3rd-Year/second-Term/Android/Section/Dart",
     "3rd-Year/second-Term/Android/Section",
     "3rd-Year/second-Term/Android",
@@ -165,7 +168,6 @@
     "3rd-Year/second-Term/Security/images/Passive-Attacks.png",
     "3rd-Year/second-Term/Security/images/Key-Security-Concepts.png",
     "3rd-Year/second-Term/Security/images",
-    "3rd-Year/second-Term/Algorithms/Lecture 01 - Introduction.md",
     "3rd-Year/second-Term/Security",
     "3rd-Year/second-Term/Algorithms/images/Big-Omega.png",
     "Welcome.md",

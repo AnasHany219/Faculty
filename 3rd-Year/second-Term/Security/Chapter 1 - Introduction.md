@@ -62,3 +62,4 @@
 - **Traffic Padding:** Conceals patterns in network traffic to enhance security. 🛡️🔒
 - **Routing Control:** Manages and secures network traffic routing paths. 🛣️🔐
 - **Notarization:** Provides timestamping and verification services for digital documents. 🕰️📄
+[[Chapter 2 - Classical Encryption Techniques]]

@@ -87,3 +87,5 @@ void insertionSort(int arr[], int n) {
 ```
 
 ![[Insertion Sort.png]]
+
+[[Lecture 03 - Asymptotic Notations]]

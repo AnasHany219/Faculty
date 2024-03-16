@@ -59,3 +59,5 @@ while (i > 0){
 
 **How many times the loop repeats?**  
 * In every iteration, the value of i gets halved. **In each iteration, it does the work. Therefore the total cost is** $𝑇(𝑛) = n \log_2{i}$
+
+[[Lecture 02 - Running time]]

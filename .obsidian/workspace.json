@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7291c90cdc32630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "3rd-Year/second-Term/Machine learning/Section/Section 3 - Data preprocessing.md",
                 "mode": "source",
                 "source": false
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Section/Section 3 - Data preprocessing.md",
+                "file": "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Section/Section 3 - Data preprocessing.md",
+                "file": "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Section/Section 3 - Data preprocessing.md"
+                "file": "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md"
               }
             }
           }
@@ -148,9 +160,15 @@
   },
   "active": "e933a140453f2dc5",
   "lastOpenFiles": [
+    "3rd-Year/second-Term/Machine learning/Section/Section 3 - Data preprocessing.md",
+    "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md",
+    "sec.md",
     "3rd-Year/second-Term/Machine learning/Section/Section 2 - Data preprocessing & Visualization.md",
     "3rd-Year/second-Term/Machine learning/Section/Section 1 - Python from scratch.md",
-    "3rd-Year/second-Term/Machine learning/Section/Section 3 - Data preprocessing.md",
+    "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
+    "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
+    "3rd-Year/second-Term/Algorithms/Lecture 03 - Asymptotic Notations.md",
+    "3rd-Year/second-Term/Algorithms/Lecture 02 - Running time.md",
     "3rd-Year/second-Term/Machine learning/Section/img/Box-Plot.png",
     "3rd-Year/second-Term/Machine learning/Section/img/Scatter-Plot.png",
     "3rd-Year/second-Term/Machine learning/Section/img/Line-Plot.png",
@@ -158,22 +176,18 @@
     "3rd-Year/second-Term/Machine learning/Section/img/Scatter-Plot.png",
     "3rd-Year/second-Term/Machine learning/Section/img",
     "3rd-Year/second-Term/Machine learning/Section/img/Line-Plot.png",
-    "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
     "3rd-Year/second-Term/Machine learning/Section",
     "3rd-Year/second-Term/Machine learning",
     "3rd-Year/second-Term/Untitled.md",
     "3rd-Year/second-Term/Android/Section/Dart/Section 3 - OOP.md",
     "3rd-Year/second-Term/Android/Section/Dart/Section 2 - OOP.md",
     "3rd-Year/second-Term/Android/Section/Dart/Section 1 - Basics.md",
-    "3rd-Year/second-Term/Algorithms/Lecture 02 - Running time.md",
     "3rd-Year/second-Term/Algorithms/Lecture 01 - Introduction.md",
-    "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
     "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
     "2024-03-15.md",
     "3rd-Year/second-Term/Security/images/DES.png",
     "3rd-Year/second-Term/Android/Section/Dart/Section 4 - OOP.md",
     "3rd-Year/second-Term/Security/images/des.png",
-    "3rd-Year/second-Term/Algorithms/Lecture 03 - Asymptotic Notations.md",
     "3rd-Year/second-Term/Android/Section/Dart",
     "3rd-Year/second-Term/Android/Section",
     "3rd-Year/second-Term/Android",

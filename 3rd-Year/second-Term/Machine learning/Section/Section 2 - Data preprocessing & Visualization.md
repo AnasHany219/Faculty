@@ -135,3 +135,4 @@ box = sb.boxplot(db['Age'])
 	- Once the report emerges, explore its contents carefully. 
 	- Look for data distributions, missing values, variable correlations, and potential anomalies.
 
+[[Section 3 - Data preprocessing]]

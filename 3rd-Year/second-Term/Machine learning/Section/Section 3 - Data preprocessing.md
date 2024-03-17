@@ -146,7 +146,7 @@ print(df)
 8  Germany  1.547668  1.662233        No
 9   France -0.515889  0.278640       Yes
 ```
-### **Min-Max Scaling 📏**
+### Min-Max Scaling 📏
 
 - Min-Max Scaling blows through your data, ensuring that it falls within a specified range, typically between 0 and 1. 
 $$X_{scaled} = \frac{{X - X_{min}}} {{X_{max} - X_{min}}}$$
@@ -170,6 +170,7 @@ print(df)
 ```
 
 **Output:**
+
 ```
    Country   Age    Salary Purchased
 0   France  0.70  0.685714        No
@@ -187,7 +188,7 @@ print(df)
 
 ### **SimpleImputer 🕵️‍♂️**
 
-- `SimpleImputer` comes to the rescue when your dataset has missing values, filling them in with specified strategies like `mean`, `median`, `mode`, or a `constant value`. 
+- `SimpleImputer` comes to the rescue when your dataset has missing values, filling them in with specified strategies like `mean`, `median`, `mode`, `most_frequent`, or a `constant value`. 
 
 ```python
 import pandas as pd
@@ -201,6 +202,11 @@ imputer = SimpleImputer(strategy='mean')
 
 # Impute missing values in the 'Age' and 'Salary' columns
 df[['Age', 'Salary']] = imputer.fit_transform(df[['Age', 'Salary']])
+
+# iloc[rows, columns] -> integer-location based indexing
+# iloc[:, 1:3] -> all rows and column 1, 2
+# imputer.fit(df.iloc[:, 1:3])
+# df.iloc[:, 1:3] = imputer.transform(df.iloc[:, 1:3])
 
 # Display the dataset with imputed values
 print(df)
@@ -220,3 +226,5 @@ print(df)
 8  Germany  50.00  83000.000000        No
 9   France  37.00  67000.000000       Yes
 ```
+
+[[Section 4 - Data preprocessing]]

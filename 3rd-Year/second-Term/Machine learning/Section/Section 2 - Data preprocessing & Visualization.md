@@ -63,16 +63,15 @@
 ```python
 import pandas as pd
 import seaborn as sns
-import matplotlib.pyplot as plt
 
 # Generate sample data
 db = pd.read_csv('Data.csv')
 
 # Line Plot
-line = sb.lineplot(db['Age'])
+line = sns.lineplot(data = db, x = 'Age', y = 'Salary')
 ```
 
-![[Line-Plot.png | 300]]
+![[Line-Plot.png| 300]]
 ### 2. **Scatter Plot**:
    - A scatter plot represents individual data points as `dots`.
    - Useful for visualizing the relationship between `two continuous variables`.
@@ -80,13 +79,12 @@ line = sb.lineplot(db['Age'])
 ```python
 import pandas as pd
 import seaborn as sns
-import matplotlib.pyplot as plt
 
 # Generate sample data
 db = pd.read_csv('Data.csv')
 
 # Scatter Plot
-scatter = sb.scatterplot(db['Age'])
+scatterplot = sns.scatterplot(data = db, x = 'Age', y = 'Salary')
 ```
 
 ![[Scatter-Plot.png | 300]]
@@ -97,13 +95,12 @@ scatter = sb.scatterplot(db['Age'])
 ```python
 import pandas as pd
 import seaborn as sns
-import matplotlib.pyplot as plt
 
 # Generate sample data
 db = pd.read_csv('Data.csv')
 
 # Box Plot
-box = sb.boxplot(db['Age'])
+box = sns.boxplot(data = db, x = 'Age', y = 'Salary')
 ```
 
 ![[Box-Plot.png | 300]]

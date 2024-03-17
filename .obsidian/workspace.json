@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7291c90cdc32630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Section/Section 3 - Data preprocessing.md",
+                "file": "3rd-Year/second-Term/Machine learning/Section/Section 2 - Data preprocessing & Visualization.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "497e50e10713b051",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md",
+                "file": "3rd-Year/second-Term/Machine learning/Section/Section 2 - Data preprocessing & Visualization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md",
+                "file": "3rd-Year/second-Term/Machine learning/Section/Section 2 - Data preprocessing & Visualization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md"
+                "file": "3rd-Year/second-Term/Machine learning/Section/Section 2 - Data preprocessing & Visualization.md"
               }
             }
           }
@@ -161,21 +150,22 @@
   "active": "e933a140453f2dc5",
   "lastOpenFiles": [
     "3rd-Year/second-Term/Machine learning/Section/Section 3 - Data preprocessing.md",
+    "3rd-Year/second-Term/Machine learning/Section/Section 2 - Data preprocessing & Visualization.md",
+    "3rd-Year/second-Term/Machine learning/Section/img/Box-Plot.png",
+    "3rd-Year/second-Term/Machine learning/Section/img/Scatter-Plot.png",
+    "3rd-Year/second-Term/Machine learning/Section/img/Line-Plot.png",
+    "3rd-Year/second-Term/Machine learning/Section/Section 1 - Python from scratch.md",
     "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md",
     "sec.md",
-    "3rd-Year/second-Term/Machine learning/Section/Section 2 - Data preprocessing & Visualization.md",
-    "3rd-Year/second-Term/Machine learning/Section/Section 1 - Python from scratch.md",
     "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
     "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
     "3rd-Year/second-Term/Algorithms/Lecture 03 - Asymptotic Notations.md",
     "3rd-Year/second-Term/Algorithms/Lecture 02 - Running time.md",
     "3rd-Year/second-Term/Machine learning/Section/img/Box-Plot.png",
     "3rd-Year/second-Term/Machine learning/Section/img/Scatter-Plot.png",
-    "3rd-Year/second-Term/Machine learning/Section/img/Line-Plot.png",
     "3rd-Year/second-Term/Machine learning/Section/img/Box-Plot.png",
     "3rd-Year/second-Term/Machine learning/Section/img/Scatter-Plot.png",
     "3rd-Year/second-Term/Machine learning/Section/img",
-    "3rd-Year/second-Term/Machine learning/Section/img/Line-Plot.png",
     "3rd-Year/second-Term/Machine learning/Section",
     "3rd-Year/second-Term/Machine learning",
     "3rd-Year/second-Term/Untitled.md",
@@ -192,7 +182,6 @@
     "3rd-Year/second-Term/Android/Section",
     "3rd-Year/second-Term/Android",
     "3rd-Year/second-Term/Security/images/Active-Attack.png",
-    "3rd-Year/second-Term/Security/images/Passive-Attacks.png",
     "3rd-Year/second-Term/Security/images",
     "3rd-Year/second-Term/Security",
     "Welcome.md",

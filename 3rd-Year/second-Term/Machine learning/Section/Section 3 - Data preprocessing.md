@@ -1,7 +1,7 @@
 # Data File
 
 | Country | Age | Salary | Purchased |
-|---------|-----|--------|-----------|
+| ------- | --- | ------ | --------- |
 | France  | 44  | 72000  | No        |
 | Spain   |     | 48000  | Yes       |
 | Germany | 30  | 54000  | No        |
@@ -104,14 +104,10 @@ print(hot_df)
 - The `fit_transform()` method first calculates the `mean` and `standard deviation` of the data and then `standardizes` the data using these statistics. 
 - This ensures that the standardized features have a `mean of 0` and a `standard deviation of 1`, making them suitable for machine learning algorithms that assume normally distributed data.
 
-	1. **Calculate the Mean**: For each feature, calculate the mean value $\large\mu$ across all data points in the feature.
-	1. **Calculate the Standard Deviation**: For each feature, calculate the standard deviation $\large\sigma$ across all data points in the feature.
-	1. **Standardize the Data**: For each data point in each feature, subtract the mean $\large\mu$ and divide by the standard deviation $\large\sigma$.
+1. **Calculate the Mean**: For each feature, calculate the mean value $\large\mu$ across all data points in the feature.
+2. **Calculate the Standard Deviation**: For each feature, calculate the standard deviation $\large\sigma$ across all data points in the feature.
+3. **Standardize the Data**: For each data point in each feature, subtract the mean $\large\mu$ and divide by the standard deviation $\large\sigma$.
 $$X_{scaled} = \frac{{X - \mu}}{{\sigma}}$$
-- $X_{scaled}$ is the standardized value of the feature \( X \).
-- $X$ is the original value of the feature.
-- $\large\mu$ is the mean of the feature.
-- $\large\sigma$ is the standard deviation of the feature.
 
 ```python
 import pandas as pd

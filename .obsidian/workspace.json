@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Section/Section 2 - Data preprocessing & Visualization.md",
+                "file": "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "497e50e10713b051",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Section/Section 2 - Data preprocessing & Visualization.md",
+                "file": "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Section/Section 2 - Data preprocessing & Visualization.md",
+                "file": "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Section/Section 2 - Data preprocessing & Visualization.md"
+                "file": "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md"
               }
             }
           }
@@ -150,12 +149,12 @@
   "active": "e933a140453f2dc5",
   "lastOpenFiles": [
     "3rd-Year/second-Term/Machine learning/Section/Section 3 - Data preprocessing.md",
+    "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md",
     "3rd-Year/second-Term/Machine learning/Section/Section 2 - Data preprocessing & Visualization.md",
     "3rd-Year/second-Term/Machine learning/Section/img/Box-Plot.png",
     "3rd-Year/second-Term/Machine learning/Section/img/Scatter-Plot.png",
     "3rd-Year/second-Term/Machine learning/Section/img/Line-Plot.png",
     "3rd-Year/second-Term/Machine learning/Section/Section 1 - Python from scratch.md",
-    "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md",
     "sec.md",
     "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
     "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",

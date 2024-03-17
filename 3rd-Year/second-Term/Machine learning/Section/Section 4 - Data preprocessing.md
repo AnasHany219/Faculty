@@ -6,10 +6,8 @@
 
 - `Recursive Feature Elimination (RFE)` is a feature selection technique.
 - It iteratively `removes` the `least important features` from the dataset.
-- The process continues until the desired number of features is `reached`.
-- `RFE` improves` model performance` and `reduces overfitting`.
-- It provides insights into feature importance and enhances model interpretability.
 - `RFE` is useful for high-dimensional datasets and helps build efficient `machine learning models`.
+- We use RFE for several reasons: `Dimensionality Reduction`, `Improving Model Performance`, and `Identifying Important Features`.
 ### Example: 
 
 1. **Import Libraries**: We import necessary libraries including `RFE` (for Recursive Feature Elimination), `svm` (for Support Vector Machine model), and `pandas` (for data manipulation).
@@ -71,7 +69,7 @@
 - `Principal Component Analysis (PCA)` is a dimensionality reduction technique.
 - It transforms `high-dimensional data` into a `lower-dimensional space`.
 - PCA identifies the directions `principal components` that maximize variance in the data.
-- Principal components are `orthogonal` and` capture different directions` of variation.
+- Principal components are `orthogonal` and `capture different directions` of variation.
 - PCA is used for `dimensionality reduction`, `visualization`, `noise reduction`, and `feature engineering`.
 - It `simplifies` complex datasets while retaining essential information.
 ### Example: 
@@ -99,6 +97,8 @@
 	pca.fit_transform(x)
 ```
 4. **Explained Variance Ratio**: Calculate the explained variance ratio and the cumulative explained variance.
+	1. `pca.explained_variance_ratio_` : selecting the number of principal components to retain based on the desired amount of variance
+	2. `np.cumsum(exvar)` : computes the cumulative sum of the explained variance ratios obtained from `pca.explained_variance_ratio_`.
 ```python
 	# Explained variance ratio
 	exvar = pca.explained_variance_ratio_
@@ -167,31 +167,31 @@
 ```
 2. **Splitting Data**: Split the dataset into features (x) and the target variable (y) where x contains all columns except the last one, and y contains the last column.
 ```python
-# Separate features (x) and target variable (y)
-x = data.iloc[:, :-1] 
-y = data.iloc[:, -1]
+	# Separate features (x) and target variable (y)
+	x = data.iloc[:, :-1] 
+	y = data.iloc[:, -1]
 ```
 3. **Train-Test Split**: Divide the dataset into training and testing sets using the `train_test_split` function from scikit-learn. Here, 70% of the data is used for training (`x_train`, `y_train`), and 30% is reserved for testing (`x_test`, `y_test`).
 ```python
-# Split the dataset into training and testing sets
-x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.3)
+	# Split the dataset into training and testing sets
+	x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.3)
 ```
 4. **Class Imbalance Checking (Before Oversampling)**: Print the counts of each class in the training set before applying oversampling. This helps to visualize the class distribution.
 ```python
-# Display the counts of each class in the training set before oversampling
-print("Before OverSampling # 1 =", sum(y_train == 1)) 
-print("Before OverSampling # 0 =", sum(y_train == 0))
+	# Display the counts of each class in the training set before oversampling
+	print("Before OverSampling # 1 =", sum(y_train == 1)) 
+	print("Before OverSampling # 0 =", sum(y_train == 0))
 ```
 5. **Oversampling (SMOTE)**: Perform oversampling using the Synthetic Minority Over-sampling Technique (SMOTE) to balance the class distribution. The `fit_resample` function generates synthetic samples for the minority class to match the majority class.
 ```python
-# Perform oversampling using SMOTE
-sm = SMOTE()
-x_res, y_res = sm.fit_resample(x_train, y_train)
+	# Perform oversampling using SMOTE
+	sm = SMOTE()
+	x_res, y_res = sm.fit_resample(x_train, y_train)
 ```
 6. **Class Imbalance Checking (After Oversampling)**: Print the counts of each class in the training set after applying SMOTE to verify that the class distribution has been balanced.
 ```python
-# Display the counts of each class in the training set after oversampling
-print("-----------------------------------------")
-print("After OverSampling # 1 =", sum(y_res == 1)) 
-print("After OverSampling # 0 =", sum(y_res == 0))
+	# Display the counts of each class in the training set after oversampling
+	print("-----------------------------------------")
+	print("After OverSampling # 1 =", sum(y_res == 1)) 
+	print("After OverSampling # 0 =", sum(y_res == 0))
 ```

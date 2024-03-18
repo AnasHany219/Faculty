@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3rd-Year/second-Term/Android/Lectures/Lecture 2 - Dart Basics.md",
+                "file": "3rd-Year/second-Term/Android/Lectures/Lecture 3 - Dart OOP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/Android/Lectures/Lecture 2 - Dart Basics.md",
+                "file": "3rd-Year/second-Term/Android/Lectures/Lecture 3 - Dart OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/Android/Lectures/Lecture 2 - Dart Basics.md",
+                "file": "3rd-Year/second-Term/Android/Lectures/Lecture 3 - Dart OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/Android/Lectures/Lecture 2 - Dart Basics.md"
+                "file": "3rd-Year/second-Term/Android/Lectures/Lecture 3 - Dart OOP.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "e933a140453f2dc5",
   "lastOpenFiles": [
-    "3rd-Year/second-Term/Android/Lectures/Lecture 1 - Dart Introduction.md",
     "3rd-Year/second-Term/Android/Lectures/Lecture 2 - Dart Basics.md",
+    "3rd-Year/second-Term/Android/Lectures/Lecture 3 - Dart OOP.md",
+    "3rd-Year/second-Term/Android/Lectures/Lecture 1 - Dart Introduction.md",
     "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
     "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
     "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
@@ -192,7 +193,6 @@
     "image1.md",
     "images/run-time-1.md",
     "3rd-Year/second-Term/Algorithms/Summaries.md",
-    "file name 2 etc.md",
-    "file name etc.md"
+    "file name 2 etc.md"
   ]
 }

@@ -10,11 +10,9 @@
   - Shields data blocks, such as messages, from unauthorized alteration.
 - **Authentication Protocols:** 🤝🔐
   - Confirms the identity of entities, securing communication channels.
-
 # Confidentiality, Integrity, and Availability (CIA) 🕵️‍♂️🔐
 
-**Computer Security:** Safeguards automated information systems ensuring integrity, availability, and confidentiality. 🖥️
-
+   - **Computer Security:** Safeguards automated information systems ensuring integrity, availability, and confidentiality. 🖥️
 ## Confidentiality 🤫
 ##### Data Confidentiality: 🛡️
 - Guards against unauthorized access to private information.

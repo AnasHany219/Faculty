@@ -15,7 +15,6 @@
 - Mohamed’s Algorithm: $50𝑛log𝑛$ operations
 - Time taken by Mohamed’s computer: 
   $$Time = \large\frac{Algorithm complexity}{device speed} = \frac{50 × 10^6 log 10^6}{10^7} = 100s$$
-
 ### Typical Running Time
 - 1 (constant) 🕰️
 - $\log{n}$ (logarithmic) 🔍

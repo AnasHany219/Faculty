@@ -19,7 +19,6 @@
 
 ## The Running Time
 - It is the number of steps executed. ⏱️  
-
 ### Consecutive Statements
 ```cpp
 int main(){
@@ -29,7 +28,7 @@ int main(){
 }
 ```
 - The total running time is $𝑇(𝑛) = 𝑛 + 𝑛^2$
-
+/break
 ### For Loop
 ```cpp
 for(int i = 0; i < n; i++){

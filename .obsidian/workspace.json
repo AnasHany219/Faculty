@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3rd-Year/second-Term/Android/Lectures/Lecture 3 - Dart OOP.md",
+                "file": "3rd-Year/second-Term/Android/Lectures/Lecture 4 - Flutter Widget.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/Android/Lectures/Lecture 3 - Dart OOP.md",
+                "file": "3rd-Year/second-Term/Android/Lectures/Lecture 4 - Flutter Widget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/Android/Lectures/Lecture 3 - Dart OOP.md",
+                "file": "3rd-Year/second-Term/Android/Lectures/Lecture 4 - Flutter Widget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/Android/Lectures/Lecture 3 - Dart OOP.md"
+                "file": "3rd-Year/second-Term/Android/Lectures/Lecture 4 - Flutter Widget.md"
               }
             }
           }
@@ -148,12 +148,27 @@
   },
   "active": "e933a140453f2dc5",
   "lastOpenFiles": [
-    "3rd-Year/second-Term/Android/Lectures/Lecture 2 - Dart Basics.md",
     "3rd-Year/second-Term/Android/Lectures/Lecture 3 - Dart OOP.md",
-    "3rd-Year/second-Term/Android/Lectures/Lecture 1 - Dart Introduction.md",
-    "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
+    "3rd-Year/second-Term/Android/Lectures/Lecture 4 - Flutter Widget.md",
+    "3rd-Year/second-Term/Algorithms/Lecture 02 - Running time.md",
+    "3rd-Year/second-Term/Algorithms/Lecture 03 - Asymptotic Notations.md",
+    "3rd-Year/second-Term/Algorithms/Lecture 01 - Introduction.md",
     "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
     "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
+    "3rd-Year/second-Term/Security/images/Active-Attack.png",
+    "3rd-Year/second-Term/Android/img/RichText Widget 2.png",
+    "Pasted image 20240319225544.png",
+    "3rd-Year/second-Term/Android/img/Visible & Invisible Widgets.png",
+    "3rd-Year/second-Term/Android/img/Scaffold Widget-2.png",
+    "3rd-Year/second-Term/Android/img/Scaffold Widget-1.png",
+    "3rd-Year/second-Term/Android/img/Flutter Application Render.png",
+    "3rd-Year/second-Term/Android/img/AppBar Widget.png",
+    "3rd-Year/second-Term/Android/img/RichText Widget 1.png",
+    "Pasted image 20240319225501.png",
+    "3rd-Year/second-Term/Android/img",
+    "3rd-Year/second-Term/Android/Lectures/Lecture 2 - Dart Basics.md",
+    "3rd-Year/second-Term/Android/Lectures/Lecture 1 - Dart Introduction.md",
+    "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
     "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md",
     "3rd-Year/second-Term/Machine learning/Section/Section 3 - Data preprocessing.md",
     "3rd-Year/second-Term/Machine learning/Section/Section 2 - Data preprocessing & Visualization.md",
@@ -162,37 +177,21 @@
     "3rd-Year/second-Term/Android/Section/Dart/Section 2 - OOP.md",
     "3rd-Year/second-Term/Android/Section/Dart/Section 4 - OOP.md",
     "3rd-Year/second-Term/Android/Section/Dart/Section 3 - OOP.md",
-    "3rd-Year/second-Term/Algorithms/Lecture 03 - Asymptotic Notations.md",
-    "3rd-Year/second-Term/Algorithms/Lecture 02 - Running time.md",
-    "3rd-Year/second-Term/Algorithms/Lecture 01 - Introduction.md",
     "3rd-Year/second-Term/Android/Lectures",
-    "3rd-Year/second-Term/Machine learning/Section/img/Box-Plot.png",
-    "3rd-Year/second-Term/Machine learning/Section/img/Scatter-Plot.png",
-    "3rd-Year/second-Term/Machine learning/Section/img/Line-Plot.png",
     "sec.md",
-    "3rd-Year/second-Term/Machine learning/Section/img/Box-Plot.png",
-    "3rd-Year/second-Term/Machine learning/Section/img/Scatter-Plot.png",
-    "3rd-Year/second-Term/Machine learning/Section/img/Box-Plot.png",
-    "3rd-Year/second-Term/Machine learning/Section/img/Scatter-Plot.png",
     "3rd-Year/second-Term/Machine learning/Section/img",
     "3rd-Year/second-Term/Machine learning/Section",
     "3rd-Year/second-Term/Machine learning",
     "3rd-Year/second-Term/Untitled.md",
     "2024-03-15.md",
-    "3rd-Year/second-Term/Security/images/DES.png",
-    "3rd-Year/second-Term/Security/images/des.png",
     "3rd-Year/second-Term/Android/Section/Dart",
     "3rd-Year/second-Term/Android/Section",
     "3rd-Year/second-Term/Android",
-    "3rd-Year/second-Term/Security/images/Active-Attack.png",
     "3rd-Year/second-Term/Security/images",
     "3rd-Year/second-Term/Security",
     "Welcome.md",
     "3rd-Year/second-Term/Algorithms/Lecture 03 - Asymptotic Notations 1.md",
-    "Untitled",
     "image1.md",
-    "images/run-time-1.md",
-    "3rd-Year/second-Term/Algorithms/Summaries.md",
-    "file name 2 etc.md"
+    "images/run-time-1.md"
   ]
 }

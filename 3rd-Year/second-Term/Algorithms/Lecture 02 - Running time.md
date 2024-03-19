@@ -23,13 +23,8 @@
   - $𝑛^2$ quadratic 📉
   - $𝑛^3$ cubic 📉
 - $2^𝑛$ (exponential) 💥
-
-<div style="display: flex;">
-    <img src="D:\Obsidian\Faculty\3rd-Year\second-Term\Algorithms\images\run-time-1.png" alt="Image 1" style="flex: 1; width: 50%;">
-    <img src="D:\Obsidian\Faculty\3rd-Year\second-Term\Algorithms\images\run-time-2.png" alt="Image 2" style="flex: 1; width: 50%;">
-</div>
-
-
+![[run-time-1.png]]
+![[run-time-2.png]]
 ## Loop
   - **Nested loop:**
     ```python

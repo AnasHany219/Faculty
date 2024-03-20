@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "497e50e10713b051",
@@ -149,6 +148,7 @@
   },
   "active": "35a92902a6ede14a",
   "lastOpenFiles": [
+    "README.md",
     "3rd-Year/second-Term/Algorithms/Sheets/Sheet 2 - Asymptotic Notations.md",
     "3rd-Year/second-Term/Algorithms/Sheets/Sheet 1 - Running Time.md",
     "3rd-Year/second-Term/Algorithms/Lectures/Lecture 03 - Asymptotic Notations.md",
@@ -193,7 +193,6 @@
     "3rd-Year/second-Term/Android/Section",
     "3rd-Year/second-Term/Android",
     "Welcome.md",
-    "3rd-Year/second-Term/Algorithms/Lecture 03 - Asymptotic Notations 1.md",
-    "image1.md"
+    "3rd-Year/second-Term/Algorithms/Lecture 03 - Asymptotic Notations 1.md"
   ]
 }

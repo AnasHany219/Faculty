@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3rd-Year/second-Term/Algorithms/Sheets/Sheet 1 - Running Time.md",
-                "mode": "source",
+                "file": "3rd-Year/second-Term/How to Study.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/Algorithms/Sheets/Sheet 1 - Running Time.md",
+                "file": "3rd-Year/second-Term/How to Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/Algorithms/Sheets/Sheet 1 - Running Time.md",
+                "file": "3rd-Year/second-Term/How to Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/Algorithms/Sheets/Sheet 1 - Running Time.md"
+                "file": "3rd-Year/second-Term/How to Study.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "35a92902a6ede14a",
   "lastOpenFiles": [
+    "3rd-Year/second-Term/Algorithms/Sheets/Sheet 1 - Running Time.md",
+    "3rd-Year/second-Term/How to Study.md",
     "README.md",
     "3rd-Year/second-Term/Algorithms/Sheets/Sheet 2 - Asymptotic Notations.md",
-    "3rd-Year/second-Term/Algorithms/Sheets/Sheet 1 - Running Time.md",
     "3rd-Year/second-Term/Algorithms/Lectures/Lecture 03 - Asymptotic Notations.md",
     "3rd-Year/second-Term/Algorithms/Sheets",
     "3rd-Year/second-Term/Algorithms/Lectures/Lecture 02 - Running time.md",
@@ -187,7 +188,6 @@
     "3rd-Year/second-Term/Machine learning/Section/img",
     "3rd-Year/second-Term/Machine learning/Section",
     "3rd-Year/second-Term/Machine learning",
-    "3rd-Year/second-Term/Untitled.md",
     "2024-03-15.md",
     "3rd-Year/second-Term/Android/Section/Dart",
     "3rd-Year/second-Term/Android/Section",

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e933a140453f2dc5",
+            "id": "35a92902a6ede14a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3rd-Year/second-Term/Android/Lectures/Lecture 4 - Flutter Widget.md",
+                "file": "3rd-Year/second-Term/Algorithms/Sheets/Sheet 1 - Running Time.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "497e50e10713b051",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/Android/Lectures/Lecture 4 - Flutter Widget.md",
+                "file": "3rd-Year/second-Term/Algorithms/Sheets/Sheet 1 - Running Time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/Android/Lectures/Lecture 4 - Flutter Widget.md",
+                "file": "3rd-Year/second-Term/Algorithms/Sheets/Sheet 1 - Running Time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/Android/Lectures/Lecture 4 - Flutter Widget.md"
+                "file": "3rd-Year/second-Term/Algorithms/Sheets/Sheet 1 - Running Time.md"
               }
             }
           }
@@ -146,13 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e933a140453f2dc5",
+  "active": "35a92902a6ede14a",
   "lastOpenFiles": [
+    "3rd-Year/second-Term/Algorithms/Sheets/Sheet 2 - Asymptotic Notations.md",
+    "3rd-Year/second-Term/Algorithms/Sheets/Sheet 1 - Running Time.md",
+    "3rd-Year/second-Term/Algorithms/Lectures/Lecture 03 - Asymptotic Notations.md",
+    "3rd-Year/second-Term/Algorithms/Sheets",
+    "3rd-Year/second-Term/Algorithms/Lectures/Lecture 02 - Running time.md",
+    "3rd-Year/second-Term/Algorithms/Lectures/Lecture 01 - Introduction.md",
+    "3rd-Year/second-Term/Algorithms/Lectures",
+    "3rd-Year/second-Term/Android/Lectures/Lecture 2 - Dart Basics.md",
     "3rd-Year/second-Term/Android/Lectures/Lecture 3 - Dart OOP.md",
     "3rd-Year/second-Term/Android/Lectures/Lecture 4 - Flutter Widget.md",
-    "3rd-Year/second-Term/Algorithms/Lecture 02 - Running time.md",
-    "3rd-Year/second-Term/Algorithms/Lecture 03 - Asymptotic Notations.md",
-    "3rd-Year/second-Term/Algorithms/Lecture 01 - Introduction.md",
     "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
     "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
     "3rd-Year/second-Term/Security/images/Active-Attack.png",
@@ -166,7 +172,6 @@
     "3rd-Year/second-Term/Android/img/RichText Widget 1.png",
     "Pasted image 20240319225501.png",
     "3rd-Year/second-Term/Android/img",
-    "3rd-Year/second-Term/Android/Lectures/Lecture 2 - Dart Basics.md",
     "3rd-Year/second-Term/Android/Lectures/Lecture 1 - Dart Introduction.md",
     "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
     "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md",
@@ -187,11 +192,8 @@
     "3rd-Year/second-Term/Android/Section/Dart",
     "3rd-Year/second-Term/Android/Section",
     "3rd-Year/second-Term/Android",
-    "3rd-Year/second-Term/Security/images",
-    "3rd-Year/second-Term/Security",
     "Welcome.md",
     "3rd-Year/second-Term/Algorithms/Lecture 03 - Asymptotic Notations 1.md",
-    "image1.md",
-    "images/run-time-1.md"
+    "image1.md"
   ]
 }

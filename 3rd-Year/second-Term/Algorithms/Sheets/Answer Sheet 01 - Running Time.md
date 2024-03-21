@@ -1,4 +1,3 @@
-
 ## A) Rank the following time complexities:
 ### Time Complexity Questions:
 

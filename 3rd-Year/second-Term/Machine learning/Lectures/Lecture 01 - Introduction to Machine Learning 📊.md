@@ -48,7 +48,7 @@
 	- Is this a cat or a dog?
 	- Are these emails spam or not?
 	- Predict the market value of houses.
-- ![[Supervised Learning.png]]
+- ![[3rd-Year/second-Term/Machine learning/Lectures/img/Supervised Learning.png]]
 
 ```mermaid
 graph TD;

@@ -1,52 +1,39 @@
 ## 📚 Study Roadmap
 
-### 1. Algorithm
+### Algorithm:
 
-- **Progress**: We've covered 4 lectures so far. The midterm will be based on all 4. While most of us attended classes in the lecture room, all the lecture materials are available for review. Check out the lecture videos [here](https://drive.google.com/drive/folders/1wcQwCIA--ps-IROUED_2h0NstWPGteBu).
+1. Covered 4 lectures so far, with the midterm on the 4th lecture.
+2. Lectures available [here](https://drive.google.com/drive/folders/1wcQwCIA--ps-IROUED_2h0NstWPGteBu).
+3. Study material including PDFs accessible [here](https://drive.google.com/drive/folders/1efGfkdo66w23j-w9FvDAJovgojhxnENE).
+4. Practice sheets and exam preparation materials available [here](https://drive.google.com/drive/folders/1WJJZdGe77cIaSHnKELU_bnnpZTblY6Li).
+### Security:
 
-- **Materials**: You can also access lecture PDFs [here](https://drive.google.com/drive/folders/1efGfkdo66w23j-w9FvDAJovgojhxnENE).
+1. Covered 3 lectures; the midterm will include material up to Slide 16.
+2. Lecture materials and additional resources provided [here](https://drive.google.com/drive/folders/19lRv4tKA9nD1DX0ik_h8Bvliur-HDbwC).
+3. Detailed explanations and slides on algorithms available [here](https://drive.google.com/drive/folders/1YhaKysbGW9DGVf_6qwuc_AjJd0kei7JK).
+4. Past exams provided for practice [here](https://drive.google.com/drive/folders/1SP1LuSV_gLC4_BtuAVjwxEN89rZC7UI7).
+### ML (Machine Learning):
 
-- **Practice**: Once you've finished studying, try your hand at solving problems. Find practice sheets [here](https://drive.google.com/drive/folders/1WJJZdGe77cIaSHnKELU_bnnpZTblY6Li).
+1. Covered 3 lectures including a mix of MCQs, problems, and theory.
+2. Lecture materials accessible [here](https://drive.google.com/drive/folders/1oDNTKDsRHSv2S-c0_79Z_5u_FCKLdrTl).
+3. Video lectures available for better understanding, including a YouTube playlist [here](https://www.youtube.com/playlist?list=PLoOabVweB2r5dL0AVmuDbS54UvmCIlZsT).
+4. Exam questions and definitions available [here](https://drive.google.com/drive/folders/1YiPwB_D5LHW7iKXR6wzPjQuuiNInKFRD).
+### SW2 (Software Engineering 2):
 
-- **Exams**: If you're ready to test your knowledge, check out past exams [here](https://drive.google.com/drive/folders/1EziU8x75BYHhIW-o-I5hFUA7_DNJM4iM).
+1. Covered 4 chapters, but the midterm will focus on the first 3.
+2. Lecture materials provided [here](https://drive.google.com/drive/folders/1mOEWINlgBXBXY_WnS2ai1k7vWuowA60E), with explanations from a reference book.
+3. Specific chapters explained via YouTube videos, along with slide decks [Ch8](https://www.youtube.com/watch?v=TUiXvuGB5JU), [Ch9](https://www.youtube.com/watch?v=wC2uy-uB4Oo&list=PLuuNv043RqhGY6iQ2w6oD-DGRARsOZYVO&index=6).
+4. Cheat sheets available for exam preparation [here](https://drive.google.com/drive/folders/15-8xOV3mY5ia2D2q0xjp5Zekgu1x8IRS).
+### KBS (Knowledge-Based Systems):
 
----
-### 2. Security
+1. Covered 4 lectures, but the midterm format is unspecified.
+2. Lecture materials provided [here](https://drive.google.com/drive/folders/1J_5Egf5_MhAxlBnLovGltkePxlFHavgH).
+3. Video lectures and slide decks available for each lecture.
+4. Additional sections and assignments provided for comprehensive understanding [here](https://drive.google.com/drive/folders/1dO_HIaUmp254G8gtoT26y7SHH6pUNnDQ).
+### Mobile (Mobile Development):
 
-- **Progress**: We've covered 3 and a half lectures, with the midterm covering slides 1 through 16. Lectures are available [here](https://drive.google.com/drive/folders/19lRv4tKA9nD1DX0ik_h8Bvliur-HDbwC).
-
-- **Supplementary Resources**: Additional lectures recordings can be found [here](https://drive.google.com/drive/folders/12I2lv6pNL9k0Jnn0l0iOPeCCMXpZc0GT).
-
-- **Focus Areas**: Dive into algorithms. For detailed explanations and demonstrations, refer to the slides [here](https://drive.google.com/drive/folders/1YhaKysbGW9DGVf_6qwuc_AjJd0kei7JK).
-
----
-### 3. Machine Learning
-
-- **Progress**: Covered 3 lectures with varied formats (MCQs, problems, theory). Find lectures [here](https://drive.google.com/drive/folders/1oDNTKDsRHSv2S-c0_79Z_5u_FCKLdrTl).
-
-- **Additional Resources**: Review videos of lectures if needed [here](https://www.youtube.com/playlist?list=PLoOabVweB2r5dL0AVmuDbS54UvmCIlZsT).
-
-- **Practice**: Test your understanding with provided exams [here](https://drive.google.com/drive/folders/1YiPwB_D5LHW7iKXR6wzPjQuuiNInKFRD).
-
----
-### 4. Software 2
-
-- **Progress**: Covered 4 chapters, but the midterm will focus on the first 3. Lectures and references can be found [here](https://drive.google.com/drive/folders/1mOEWINlgBXBXY_WnS2ai1k7vWuowA60E).
-
-- **Study Materials**: Refer to the lectures and focus on the provided slides [here](https://drive.google.com/drive/folders/15-8xOV3mY5ia2D2q0xjp5Zekgu1x8IRS).
-
----
-### 5. Knowledge Based System
-
-- **Progress**: Covered 4 lectures with a bit of variability. Lecture materials available [here](https://drive.google.com/drive/folders/1J_5Egf5_MhAxlBnLovGltkePxlFHavgH).
-
-- **Focus Areas**: Emphasize understanding key theoretical concepts. Refer to lecture videos for additional clarification [here](https://youtu.be/4k-MB2WRLys).
-
----
-### 6. Mobile Development
-
-- **Progress**: We've covered 2 slides, all related to Dart, and 1 on Flutter. The midterm will focus on the first 3 slides available [here](https://drive.google.com/drive/folders/1lTJ0IDf_kl11spfKo90fnOpSVwOZ3M59).
-
-- **Supplementary Resources**: If you prefer video tutorials, check out these courses on Dart and Flutter [here](https://www.youtube.com/watch?v=kgN7veo9tC0&list=PL93xoMrxRJIsYc9L0XBSaiiuq01JTMQ_o&pp=iAQB) and [here](https://www.youtube.com/playlist?list=PL93xoMrxRJIvtIXjAiX15wcyNv-LOWZa9).
-
-- **Advice**: Spend time focusing on slides as they will cover the essence of the midterm. Lecture recordings are also available [here](https://drive.google.com/drive/folders/1uV2FbY8R6prTnAYptv-Wf4a79KImjYe9).
+1. Covered 2 lectures on Dart and 1 on Flutter.
+2. Midterm will include material from the first 3 lectures.
+3. Lecture materials accessible [here](https://drive.google.com/drive/folders/1lTJ0IDf_kl11spfKo90fnOpSVwOZ3M59).
+4. Recommended to review Dart and Flutter courses for better understanding.
+5. Assignments and quizzes available [here](https://drive.google.com/drive/folders/1uV2FbY8R6prTnAYptv-Wf4a79KImjYe9).

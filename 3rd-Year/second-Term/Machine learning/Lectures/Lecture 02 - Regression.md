@@ -118,3 +118,5 @@ $$LS = \min \sum_{i=1}^{m} (h(x^{(i)}) - y^{(i)})^2$$
 	- This cost function is called Ordinary Least Squares and is defined as follows:
 $$J(\theta) = \frac{1}{2m} \sum_{i=1}^{m} (h(x^{(i)}) - y^{(i)})^2$$
 The goal of learning is to minimize the cost function $J(\theta)$.
+
+## Listen [5 : 9] From [here](https://www.youtube.com/playlist?list=PLoOabVweB2r5dL0AVmuDbS54UvmCIlZsT)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Lectures/Lecture 02 - Regression.md",
+                "file": "3rd-Year/second-Term/Machine learning/Lectures/Lecture 03 -.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Lectures/Lecture 02 - Regression.md",
+                "file": "3rd-Year/second-Term/Machine learning/Lectures/Lecture 03 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Lectures/Lecture 02 - Regression.md",
+                "file": "3rd-Year/second-Term/Machine learning/Lectures/Lecture 03 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Lectures/Lecture 02 - Regression.md"
+                "file": "3rd-Year/second-Term/Machine learning/Lectures/Lecture 03 -.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "1be6b1220cf7cfc0",
   "lastOpenFiles": [
-    "3rd-Year/second-Term/Machine learning/Lectures/img/Regression-Classification-1.png",
     "3rd-Year/second-Term/Machine learning/Lectures/Lecture 02 - Regression.md",
+    "3rd-Year/second-Term/Machine learning/Lectures/Lecture 03 -.md",
+    "3rd-Year/second-Term/Machine learning/Lectures/Lecture 01 - Introduction to Machine Learning 📊.md",
+    "3rd-Year/second-Term/Machine learning/Lectures/img/Regression-Classification-1.png",
     "3rd-Year/second-Term/Machine learning/Lectures/img/Least Squares.png",
     "README.md",
     "3rd-Year/second-Term/Machine learning/Lectures/img/Least Squares.png",
     "3rd-Year/second-Term/Algorithms/Lectures/Lecture 02 - Running time.md",
-    "3rd-Year/second-Term/Machine learning/Lectures/Lecture 01 - Introduction to Machine Learning 📊.md",
     "3rd-Year/second-Term/Machine learning/Lectures/img/Supervised Learning 1.png",
     "3rd-Year/second-Term/Machine learning/Lectures/img/New-Feature-1.png",
     "3rd-Year/second-Term/Machine learning/Lectures/img/Gradient Descent.png",
@@ -163,7 +164,6 @@
     "3rd-Year/second-Term/Machine learning/Lectures/img/dataset-1.png",
     "3rd-Year/second-Term/Machine learning/Lectures/img/Regression.png",
     "3rd-Year/second-Term/How to Study.md",
-    "3rd-Year/second-Term/Machine learning/Lectures/img/ML-Applications.png",
     "3rd-Year/second-Term/Machine learning/Lectures/img",
     "3rd-Year/second-Term/Algorithms/Sheets/Answer Sheet 01 - Running Time.md",
     "3rd-Year/second-Term/Algorithms/Sheets/Sheet 2 - Asymptotic Notations.md",

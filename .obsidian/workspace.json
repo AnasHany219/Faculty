@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Lectures/Lecture 03 -.md",
+                "file": "3rd-Year/second-Term/Software 2/Lectures/Chapter 08 - Software Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.5
   },
   "right": {
     "id": "497e50e10713b051",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Lectures/Lecture 03 -.md",
+                "file": "3rd-Year/second-Term/Software 2/Lectures/Chapter 08 - Software Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Lectures/Lecture 03 -.md",
+                "file": "3rd-Year/second-Term/Software 2/Lectures/Chapter 08 - Software Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Lectures/Lecture 03 -.md"
+                "file": "3rd-Year/second-Term/Software 2/Lectures/Chapter 08 - Software Testing.md"
               }
             }
           }
@@ -148,8 +148,15 @@
   },
   "active": "1be6b1220cf7cfc0",
   "lastOpenFiles": [
-    "3rd-Year/second-Term/Machine learning/Lectures/Lecture 02 - Regression.md",
+    "3rd-Year/second-Term/Software 2/Lectures/img/Equivalence Partitioning.png",
     "3rd-Year/second-Term/Machine learning/Lectures/Lecture 03 -.md",
+    "3rd-Year/second-Term/Machine learning/Lectures/Lecture 02 - Regression.md",
+    "3rd-Year/second-Term/Software 2/Lectures/Chapter 08 - Software Testing.md",
+    "3rd-Year/second-Term/Software 2/Lectures/img",
+    "3rd-Year/second-Term/Software 2/Lectures/img/Inspections.png",
+    "Pasted image 20240322030731.png",
+    "3rd-Year/second-Term/Software 2/Lectures",
+    "3rd-Year/second-Term/Software 2",
     "3rd-Year/second-Term/Machine learning/Lectures/Lecture 01 - Introduction to Machine Learning 📊.md",
     "3rd-Year/second-Term/Machine learning/Lectures/img/Regression-Classification-1.png",
     "3rd-Year/second-Term/Machine learning/Lectures/img/Least Squares.png",
@@ -161,8 +168,6 @@
     "3rd-Year/second-Term/Machine learning/Lectures/img/Gradient Descent.png",
     "Pasted image 20240321171206.png",
     "3rd-Year/second-Term/Machine learning/Lectures/img/Visualize-1.png",
-    "3rd-Year/second-Term/Machine learning/Lectures/img/dataset-1.png",
-    "3rd-Year/second-Term/Machine learning/Lectures/img/Regression.png",
     "3rd-Year/second-Term/How to Study.md",
     "3rd-Year/second-Term/Machine learning/Lectures/img",
     "3rd-Year/second-Term/Algorithms/Sheets/Answer Sheet 01 - Running Time.md",
@@ -187,12 +192,7 @@
     "3rd-Year/second-Term/Android/Section/Dart/Section 1 - Basics.md",
     "3rd-Year/second-Term/Android/Section/Dart/Section 2 - OOP.md",
     "3rd-Year/second-Term/Android/Section/Dart/Section 4 - OOP.md",
-    "3rd-Year/second-Term/Android/Section/Dart/Section 3 - OOP.md",
     "3rd-Year/second-Term/Android/Lectures",
-    "sec.md",
-    "3rd-Year/second-Term/Machine learning/Section/img",
-    "3rd-Year/second-Term/Machine learning/Section",
-    "3rd-Year/second-Term/Machine learning",
-    "3rd-Year/second-Term/Android/Section/Dart"
+    "3rd-Year/second-Term/Machine learning/Section/img"
   ]
 }

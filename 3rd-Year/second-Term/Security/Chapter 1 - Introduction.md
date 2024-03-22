@@ -13,6 +13,7 @@
 # Confidentiality, Integrity, and Availability (CIA) 🕵️‍♂️🔐
 
    - **Computer Security:** Safeguards automated information systems ensuring integrity, availability, and confidentiality. 🖥️
+   - ![[Key-Security-Concepts.png]]
 ## Confidentiality 🤫
 ##### Data Confidentiality: 🛡️
 - Guards against unauthorized access to private information.
@@ -29,20 +30,25 @@
 - Imposes traceability on system actions for enhanced security. 🕵️‍♂️
 ## Authenticity 🔏
 - Provides verification and trust in transmitted data and its origin. ✅
-## ![[Key-Security-Concepts.png]]
-
 # The OSI Security Architecture
 ## Security Attack: 
-  `Any action compromising the security of an organization's information.`
+
+```
+Any action compromising the security of an organization's information.
+```
 ##### Passive Attack
 - Enables adversaries to access and recognize message content, ensuring its integrity.
-![[Passive-Attacks.png | 300]]
+- ![[Passive-Attacks.png | 300]]
 ##### Active Attack
 - Empowers adversaries to manipulate or prevent the transmission of message content.
-![[Active-Attack.png | 300]]
+- ![[Active-Attack.png | 300]]
 
 ## Security Service:
-  `A process that enhances the security of the data processing systems and the information transfers of an organization.`
+
+```
+A process that enhances the security of the data processing systems and the information transfers of an organization.
+```
+
 - **Authentication:** Validates the authenticity of communicating entities.
 - **Access Control:** Restricts unauthorized usage of resources.
 - **Data Confidentiality:** Safeguards sensitive information from unauthorized access.
@@ -51,7 +57,11 @@
 - **Availability:** Ensures resources remain accessible and operational.
 
 ## Security Mechanism:
-  `Designed to detect, prevent, or recover from security breaches. `
+
+```
+Designed to detect, prevent, or recover from security breaches.
+```
+
 - **Encipherment:** Protects data by converting it into ciphertext. 🔒
 - **Digital Signatures:** Ensures the authenticity and integrity of digital documents. 📝✍️
 - **Access Controls:** Regulates access to resources based on predefined policies. 🚪🔒
@@ -60,4 +70,6 @@
 - **Traffic Padding:** Conceals patterns in network traffic to enhance security. 🛡️🔒
 - **Routing Control:** Manages and secures network traffic routing paths. 🛣️🔐
 - **Notarization:** Provides timestamping and verification services for digital documents. 🕰️📄
+
+
 [[Chapter 2 - Classical Encryption Techniques]]

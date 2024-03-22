@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3rd-Year/second-Term/How to Study.md",
-                "mode": "source",
+                "file": "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/How to Study.md",
+                "file": "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/How to Study.md",
+                "file": "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/How to Study.md"
+                "file": "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md"
               }
             }
           }
@@ -148,11 +148,13 @@
   },
   "active": "9b8d9017556b2b9b",
   "lastOpenFiles": [
+    "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
+    "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
+    "3rd-Year/second-Term/How to Study.md",
     "README.md",
     "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 04 -.md",
     "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 03 -.md",
     "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 02 - 🧠 Knowledge Representation LOGIC 🤖.md",
-    "3rd-Year/second-Term/How to Study.md",
     "().md",
     "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 01 - Expert System.md",
     "3rd-Year/second-Term/Software 2/Lectures/Chapter 10 - Dependable Systems.md",
@@ -188,8 +190,6 @@
     "3rd-Year/second-Term/Android/Lectures/Lecture 2 - Dart Basics.md",
     "3rd-Year/second-Term/Android/Lectures/Lecture 3 - Dart OOP.md",
     "3rd-Year/second-Term/Android/Lectures/Lecture 4 - Flutter Widget.md",
-    "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
-    "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
     "3rd-Year/second-Term/Android/img",
     "3rd-Year/second-Term/Android/Lectures/Lecture 1 - Dart Introduction.md",
     "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",

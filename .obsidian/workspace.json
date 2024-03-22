@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3rd-Year/second-Term/Algorithms/Sheets/Answer Sheet 02 - Asymptotic Notations.md",
+                "file": "3rd-Year/second-Term/Software 2/Lectures/Chapter 10 - Dependable Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/Algorithms/Sheets/Answer Sheet 02 - Asymptotic Notations.md",
+                "file": "3rd-Year/second-Term/Software 2/Lectures/Chapter 10 - Dependable Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/Algorithms/Sheets/Answer Sheet 02 - Asymptotic Notations.md",
+                "file": "3rd-Year/second-Term/Software 2/Lectures/Chapter 10 - Dependable Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/Algorithms/Sheets/Answer Sheet 02 - Asymptotic Notations.md"
+                "file": "3rd-Year/second-Term/Software 2/Lectures/Chapter 10 - Dependable Systems.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "1be6b1220cf7cfc0",
   "lastOpenFiles": [
-    "3rd-Year/second-Term/Algorithms/Sheets/Answer Sheet 01 - Running Time.md",
+    "3rd-Year/second-Term/Software 2/Lectures/Chapter 09 - Software Evolution.md",
+    "3rd-Year/second-Term/Software 2/Lectures/Chapter 10 - Dependable Systems.md",
     "3rd-Year/second-Term/Software 2/Lectures/Chapter 08 - Software Testing.md",
+    "3rd-Year/second-Term/Algorithms/Lectures/Lecture 01 - Introduction.md",
+    "3rd-Year/second-Term/Algorithms/Sheets/Answer Sheet 02 - Asymptotic Notations.md",
+    "3rd-Year/second-Term/Algorithms/Sheets/Answer Sheet 01 - Running Time.md",
     "3rd-Year/second-Term/Software 2/Lectures/img/Equivalence Partitioning.png",
     "3rd-Year/second-Term/Machine learning/Lectures/Lecture 03 -.md",
     "3rd-Year/second-Term/Machine learning/Lectures/Lecture 02 - Regression.md",
@@ -170,11 +174,9 @@
     "Pasted image 20240321171206.png",
     "3rd-Year/second-Term/How to Study.md",
     "3rd-Year/second-Term/Machine learning/Lectures/img",
-    "3rd-Year/second-Term/Algorithms/Sheets/Answer Sheet 02 - Asymptotic Notations.md",
     "3rd-Year/second-Term/Machine learning/Lectures",
     "3rd-Year/second-Term/Algorithms/Lectures/Lecture 03 - Asymptotic Notations.md",
     "3rd-Year/second-Term/Algorithms/Sheets",
-    "3rd-Year/second-Term/Algorithms/Lectures/Lecture 01 - Introduction.md",
     "3rd-Year/second-Term/Algorithms/Lectures",
     "3rd-Year/second-Term/Android/Lectures/Lecture 2 - Dart Basics.md",
     "3rd-Year/second-Term/Android/Lectures/Lecture 3 - Dart OOP.md",
@@ -190,7 +192,6 @@
     "3rd-Year/second-Term/Machine learning/Section/Section 1 - Python from scratch.md",
     "3rd-Year/second-Term/Android/Section/Dart/Section 1 - Basics.md",
     "3rd-Year/second-Term/Android/Section/Dart/Section 2 - OOP.md",
-    "3rd-Year/second-Term/Android/Section/Dart/Section 4 - OOP.md",
     "3rd-Year/second-Term/Android/Lectures",
     "3rd-Year/second-Term/Machine learning/Section/img"
   ]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 04 -.md",
+                "file": "3rd-Year/second-Term/How to Study.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 04 -.md",
+                "file": "3rd-Year/second-Term/How to Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 04 -.md",
+                "file": "3rd-Year/second-Term/How to Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 04 -.md"
+                "file": "3rd-Year/second-Term/How to Study.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "9b8d9017556b2b9b",
   "lastOpenFiles": [
-    "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 03 -.md",
+    "README.md",
     "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 04 -.md",
+    "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 03 -.md",
     "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 02 - 🧠 Knowledge Representation LOGIC 🤖.md",
     "3rd-Year/second-Term/How to Study.md",
     "().md",
@@ -173,7 +174,6 @@
     "3rd-Year/second-Term/Machine learning/Lectures/Lecture 01 - Introduction to Machine Learning 📊.md",
     "3rd-Year/second-Term/Machine learning/Lectures/img/Regression-Classification-1.png",
     "3rd-Year/second-Term/Machine learning/Lectures/img/Least Squares.png",
-    "README.md",
     "3rd-Year/second-Term/Machine learning/Lectures/img/Least Squares.png",
     "3rd-Year/second-Term/Algorithms/Lectures/Lecture 02 - Running time.md",
     "3rd-Year/second-Term/Machine learning/Lectures/img/Supervised Learning 1.png",

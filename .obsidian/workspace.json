@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "54926b8ebad7eb4c",
+        "id": "38e21cd721c3e669",
         "type": "tabs",
         "children": [
           {
-            "id": "1be6b1220cf7cfc0",
+            "id": "9b8d9017556b2b9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3rd-Year/second-Term/Software 2/Lectures/Chapter 10 - Dependable Systems.md",
+                "file": "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 04 -.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/Software 2/Lectures/Chapter 10 - Dependable Systems.md",
+                "file": "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 04 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/Software 2/Lectures/Chapter 10 - Dependable Systems.md",
+                "file": "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 04 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/Software 2/Lectures/Chapter 10 - Dependable Systems.md"
+                "file": "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 04 -.md"
               }
             }
           }
@@ -146,10 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1be6b1220cf7cfc0",
+  "active": "9b8d9017556b2b9b",
   "lastOpenFiles": [
-    "3rd-Year/second-Term/Software 2/Lectures/Chapter 09 - Software Evolution.md",
+    "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 03 -.md",
+    "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 04 -.md",
+    "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 02 - 🧠 Knowledge Representation LOGIC 🤖.md",
+    "3rd-Year/second-Term/How to Study.md",
+    "().md",
+    "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 01 - Expert System.md",
     "3rd-Year/second-Term/Software 2/Lectures/Chapter 10 - Dependable Systems.md",
+    "3rd-Year/second-Term/Knowledge Based System/Lectures",
+    "3rd-Year/second-Term/Knowledge Based System",
+    "3rd-Year/second-Term/Software 2/Lectures/Chapter 09 - Software Evolution.md",
     "3rd-Year/second-Term/Software 2/Lectures/Chapter 08 - Software Testing.md",
     "3rd-Year/second-Term/Algorithms/Lectures/Lecture 01 - Introduction.md",
     "3rd-Year/second-Term/Algorithms/Sheets/Answer Sheet 02 - Asymptotic Notations.md",
@@ -172,7 +180,6 @@
     "3rd-Year/second-Term/Machine learning/Lectures/img/New-Feature-1.png",
     "3rd-Year/second-Term/Machine learning/Lectures/img/Gradient Descent.png",
     "Pasted image 20240321171206.png",
-    "3rd-Year/second-Term/How to Study.md",
     "3rd-Year/second-Term/Machine learning/Lectures/img",
     "3rd-Year/second-Term/Machine learning/Lectures",
     "3rd-Year/second-Term/Algorithms/Lectures/Lecture 03 - Asymptotic Notations.md",
@@ -186,13 +193,6 @@
     "3rd-Year/second-Term/Android/img",
     "3rd-Year/second-Term/Android/Lectures/Lecture 1 - Dart Introduction.md",
     "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
-    "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md",
-    "3rd-Year/second-Term/Machine learning/Section/Section 3 - Data preprocessing.md",
-    "3rd-Year/second-Term/Machine learning/Section/Section 2 - Data preprocessing & Visualization.md",
-    "3rd-Year/second-Term/Machine learning/Section/Section 1 - Python from scratch.md",
-    "3rd-Year/second-Term/Android/Section/Dart/Section 1 - Basics.md",
-    "3rd-Year/second-Term/Android/Section/Dart/Section 2 - OOP.md",
-    "3rd-Year/second-Term/Android/Lectures",
-    "3rd-Year/second-Term/Machine learning/Section/img"
+    "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md"
   ]
 }

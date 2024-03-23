@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
-                "mode": "preview",
+                "file": "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "497e50e10713b051",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
+                "file": "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
+                "file": "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md"
+                "file": "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md"
               }
             }
           }
@@ -148,8 +149,8 @@
   },
   "active": "9b8d9017556b2b9b",
   "lastOpenFiles": [
-    "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
     "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
+    "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
     "3rd-Year/second-Term/How to Study.md",
     "README.md",
     "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 04 -.md",

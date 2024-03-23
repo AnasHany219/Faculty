@@ -6,6 +6,7 @@
       {
         "id": "38e21cd721c3e669",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "9b8d9017556b2b9b",
@@ -13,13 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
+                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2c10bb7d98c6e8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "497e50e10713b051",
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
+                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
+                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md"
+                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md"
               }
             }
           }
@@ -146,10 +161,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b8d9017556b2b9b",
+  "active": "c2c10bb7d98c6e8b",
   "lastOpenFiles": [
-    "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
     "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
+    "3rd-Year/second-Term/Machine learning/Lectures/Lecture 02 - Regression.md",
+    "3rd-Year/second-Term/Machine learning/Lectures/Lecture 01 - Introduction to Machine Learning 📊.md",
+    "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
+    "3rd-Year/second-Term/Security/img/DES Round.png",
+    "3rd-Year/second-Term/Security/img/DES Round.png",
     "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
     "3rd-Year/second-Term/How to Study.md",
     "README.md",
@@ -168,21 +187,17 @@
     "3rd-Year/second-Term/Algorithms/Sheets/Answer Sheet 01 - Running Time.md",
     "3rd-Year/second-Term/Software 2/Lectures/img/Equivalence Partitioning.png",
     "3rd-Year/second-Term/Machine learning/Lectures/Lecture 03 -.md",
-    "3rd-Year/second-Term/Machine learning/Lectures/Lecture 02 - Regression.md",
     "3rd-Year/second-Term/Software 2/Lectures/img",
     "3rd-Year/second-Term/Software 2/Lectures/img/Inspections.png",
     "Pasted image 20240322030731.png",
     "3rd-Year/second-Term/Software 2/Lectures",
     "3rd-Year/second-Term/Software 2",
-    "3rd-Year/second-Term/Machine learning/Lectures/Lecture 01 - Introduction to Machine Learning 📊.md",
     "3rd-Year/second-Term/Machine learning/Lectures/img/Regression-Classification-1.png",
     "3rd-Year/second-Term/Machine learning/Lectures/img/Least Squares.png",
     "3rd-Year/second-Term/Machine learning/Lectures/img/Least Squares.png",
     "3rd-Year/second-Term/Algorithms/Lectures/Lecture 02 - Running time.md",
     "3rd-Year/second-Term/Machine learning/Lectures/img/Supervised Learning 1.png",
     "3rd-Year/second-Term/Machine learning/Lectures/img/New-Feature-1.png",
-    "3rd-Year/second-Term/Machine learning/Lectures/img/Gradient Descent.png",
-    "Pasted image 20240321171206.png",
     "3rd-Year/second-Term/Machine learning/Lectures/img",
     "3rd-Year/second-Term/Machine learning/Lectures",
     "3rd-Year/second-Term/Algorithms/Lectures/Lecture 03 - Asymptotic Notations.md",
@@ -192,7 +207,6 @@
     "3rd-Year/second-Term/Android/Lectures/Lecture 3 - Dart OOP.md",
     "3rd-Year/second-Term/Android/Lectures/Lecture 4 - Flutter Widget.md",
     "3rd-Year/second-Term/Android/img",
-    "3rd-Year/second-Term/Android/Lectures/Lecture 1 - Dart Introduction.md",
-    "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md"
+    "3rd-Year/second-Term/Android/Lectures/Lecture 1 - Dart Introduction.md"
   ]
 }

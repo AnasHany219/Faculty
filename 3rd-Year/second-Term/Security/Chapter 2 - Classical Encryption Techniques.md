@@ -171,7 +171,7 @@ Converted:       O  I  C  L  V  L  B  Q  U  S  X  Y  I  M  W
 ---
 ### 05) Vernam Cipher: 🛡️
 
-- The Vernam Cipher is a **symmetric encryption** algorithm where each bit of the plaintext is XORed ($\large\xor$) with the corresponding bit of a randomly generated key to produce the ciphertext.
+- The Vernam Cipher is a **symmetric encryption** algorithm where each bit of the plaintext is XORed ($\large \oplus$) with the corresponding bit of a randomly generated key to produce the ciphertext.
 - It provides **perfect secrecy** when the key is truly random, has the same length as the plaintext, and is never reused. 🔒
 
 ```
@@ -186,8 +186,8 @@ XOR, or exclusive OR, is a logical operation that compares two bits. It returns 
 #### Encryption Process:
 1. Generate a random key with the same length as the plaintext.
 2. Represent both the plaintext and the key in binary form as 5 bits. 📊
-3. Apply the XOR ($\large\xor$) operation between each bit of the plaintext and the corresponding bit of the key.
-4. The result of the XOR ($\large\xor$) operation becomes the ciphertext. 🔑
+3. Apply the XOR ($\large\oplus$) operation between each bit of the plaintext and the corresponding bit of the key.
+4. The result of the XOR ($\large\oplus$) operation becomes the ciphertext. 🔑
 #### Example:
 - Let's encrypt the plaintext `"HELLO"` using the key `"PLUTO"`.
 

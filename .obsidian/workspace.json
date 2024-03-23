@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "497e50e10713b051",
@@ -149,8 +148,9 @@
   },
   "active": "9b8d9017556b2b9b",
   "lastOpenFiles": [
-    "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
+    "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
     "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
+    "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
     "3rd-Year/second-Term/How to Study.md",
     "README.md",
     "3rd-Year/second-Term/Knowledge Based System/Lectures/Lecture 04 -.md",
@@ -193,7 +193,6 @@
     "3rd-Year/second-Term/Android/Lectures/Lecture 4 - Flutter Widget.md",
     "3rd-Year/second-Term/Android/img",
     "3rd-Year/second-Term/Android/Lectures/Lecture 1 - Dart Introduction.md",
-    "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
     "3rd-Year/second-Term/Machine learning/Section/Section 4 - Data preprocessing.md"
   ]
 }

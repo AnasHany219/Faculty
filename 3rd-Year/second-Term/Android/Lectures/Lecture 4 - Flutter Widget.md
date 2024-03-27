@@ -2,7 +2,7 @@
 
 - **Widgets:** These are the `building blocks` of user interfaces in Flutter. They are used to compose the UI elements.
 - **Composition:** The process of putting widgets together to `create` the `UI` is known as `composition`.
-- **Widget Tree:** Widgets are arranged in a` tree structure`, with each widget having parent-child relationships. 🌳
+- **Widget Tree:** Widgets are arranged in a `tree structure`, with each widget having parent-child relationships. 🌳
 ### Stateful and Stateless Widgets 🎭
 
 - **Stateful Widgets:** 🔄 These are the shape-shifters of Flutter, capable of changing appearance based on user interactions or data updates.

@@ -249,7 +249,7 @@ void main() {
 - We override the `findArea()` method in `Cylinder` to provide a different implementation.
 - In the `main()` function, we create instances of both classes and demonstrate calling their methods.
 ---
-### Polymorphism: 🎭
+## Polymorphism: 🎭
 
 1. **Definition**: 
    - Polymorphism means `objects` can `take on different forms` or `roles` in a program, like actors playing various characters in a play.
@@ -287,7 +287,7 @@ void main() {
    - We iterate through the list and call the `display()` method on each object.
    - Each object behaves differently based on its type, demonstrating polymorphism in action. 🚀
 ---
-### Abstract Class: 🖌️
+## Abstract Class: 🖌️
 
 1. **Definition**:
    - An abstract class is a `blueprint` for other classes, and it may contain `one or more abstract methods` (methods without implementation).
@@ -315,7 +315,7 @@ void main() {
 By defining abstract classes, we can create a hierarchy of classes with common behaviors and enforce certain methods to be implemented by subclasses. 🌟
 
 ---
-### Mixins: 🎭
+## Mixins: 🎭
 
 1. **Definition**:
    - `Mixins` are a way to `reuse` code in multiple classes without using `inheritance`.
@@ -355,7 +355,7 @@ By defining abstract classes, we can create a hierarchy of classes with common b
 Mixins provide a flexible way to share code across multiple classes, promoting code reuse and maintainability. 🌟
 
 ---
-### Static: 🧊
+## Static: 🧊
 
 1. **Definition**:
    - The `static` keyword is used in Dart to declare class-level variables and methods.
@@ -414,7 +414,7 @@ Mixins provide a flexible way to share code across multiple classes, promoting c
 Static members in Dart provide a way to maintain shared data and functionality at the class level. 🌟
 
 ---
-### Cascade Notation: 🌊
+## Cascade Notation: 🌊
 
 1. **Definition**:
    - Cascade notation, denoted by `..`, allows for performing a sequence of operations on the same object without repeating the object reference.

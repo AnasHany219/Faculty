@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3rd-Year/second-Term/Algorithms/Lectures/Lecture 02 - Running time.md",
+                "file": "3rd-Year/second-Term/Algorithms/Lectures/Lecture 03 - Asymptotic Notations.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "497e50e10713b051",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/Algorithms/Lectures/Lecture 02 - Running time.md",
+                "file": "3rd-Year/second-Term/Algorithms/Lectures/Lecture 03 - Asymptotic Notations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/Algorithms/Lectures/Lecture 02 - Running time.md",
+                "file": "3rd-Year/second-Term/Algorithms/Lectures/Lecture 03 - Asymptotic Notations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/Algorithms/Lectures/Lecture 02 - Running time.md"
+                "file": "3rd-Year/second-Term/Algorithms/Lectures/Lecture 03 - Asymptotic Notations.md"
               }
             }
           }
@@ -148,10 +149,11 @@
   },
   "active": "c2c10bb7d98c6e8b",
   "lastOpenFiles": [
+    "3rd-Year/second-Term/Algorithms/Lectures/Lecture 04 - Recursion.md",
     "3rd-Year/second-Term/Algorithms/Lectures/Lecture 03 - Asymptotic Notations.md",
+    "3rd-Year/second-Term/Algorithms/img/o-notation.png",
     "3rd-Year/second-Term/Algorithms/Lectures/Lecture 02 - Running time.md",
     "3rd-Year/second-Term/Algorithms/Lectures/Lecture 01 - Introduction.md",
-    "3rd-Year/second-Term/Algorithms/Lectures/Lecture 04 - Recursion.md",
     "3rd-Year/second-Term/Algorithms/Sheets/Answer Sheet 02 - Asymptotic Notations.md",
     "3rd-Year/second-Term/Software 2/Lectures/Chapter 08 - Software Testing.md",
     "3rd-Year/second-Term/Software 2/Lectures/Chapter 10 - Dependable Systems.md",
@@ -177,7 +179,6 @@
     "3rd-Year/second-Term/Machine learning/Lectures/img/dataset-1.png",
     "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
     "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
-    "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
     "3rd-Year/second-Term/Security/img/DES Round.png",
     "3rd-Year/second-Term/Security/img/DES Round.png",
     "3rd-Year/second-Term/Knowledge Based System/Lectures",
@@ -188,7 +189,6 @@
     "Pasted image 20240322030731.png",
     "3rd-Year/second-Term/Software 2/Lectures",
     "3rd-Year/second-Term/Software 2",
-    "3rd-Year/second-Term/Machine learning/Lectures/img/Regression-Classification-1.png",
     "3rd-Year/second-Term/Machine learning/Lectures/img",
     "3rd-Year/second-Term/Machine learning/Lectures",
     "3rd-Year/second-Term/Algorithms/Sheets",

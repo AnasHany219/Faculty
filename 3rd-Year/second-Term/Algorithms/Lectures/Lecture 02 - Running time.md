@@ -1,20 +1,17 @@
 ## The Running Time
 - It is the number of steps executed.
-
 ### Example: Sorting Numbers
 - Array size: $10^6$
-
 #### Ahmed’s Computer
 - Performs $10^9$ operations per second
 - Ahmed’s Algorithm: $2𝑛^2$ operations
 - Time taken by Ahmed’s computer: 
-  $$Time = \large\frac{Algorithm complexity}{device speed} = \frac{2 × (10^6)^2}{10^9} = 200s$$
-
+  $$Time = \large\frac{Algorithm \ complexity}{device \ speed} = \frac{2 × (10^6)^2}{10^9} = 200s$$
 #### Mohamed’s Computer
 - Performs $10^7$ operations per second
 - Mohamed’s Algorithm: $50𝑛log𝑛$ operations
 - Time taken by Mohamed’s computer: 
-  $$Time = \large\frac{Algorithm complexity}{device speed} = \frac{50 × 10^6 log 10^6}{10^7} = 100s$$
+  $$Time = \large\frac{Algorithm \ complexity}{device \ speed} = \frac{50 × 10^6 log 10^6}{10^7} = 100s$$
 ### Typical Running Time
 - 1 (constant) 🕰️
 - $\log{n}$ (logarithmic) 🔍

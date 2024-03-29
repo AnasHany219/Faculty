@@ -1,4 +1,4 @@
-## The Running Time
+## The Running Time ⏱️
 - It is the number of steps executed.
 ### Example: Sorting Numbers
 - Array size: $10^6$
@@ -24,25 +24,24 @@
 ![[run-time-2.png]]
 ## Loop
   - **Nested loop:**
-    ```python
+```python
     for i = 1 to n
       for j = 1 to n
         print 'Hi'
-	```
-$$\large\sum_{i=1}^{n} n$$
+```
+$$\large\sum_{i=1}^{n} n = n^2$$
   - **Dependent nested loop:**
-    ```python
+```python
     for i = 1 to n
       for j = 1 to i
         print 'Hi'
-    ```
-$$\large\sum_{i=1}^{n} i$$
+```
+$$\large\sum_{i=1}^{n} i = \frac{n\ (n+1)}{2}$$
 ## Sum Equations
 ### Why Study Summations?
 
-1. The running time of a loop can be expressed as the sum of the running time of each iteration.
+1. The running time of a loop can be `expressed` as the sum of the running time of each iteration.
 2. Summations come up in solving recurrences.
-
 	- $\sum_{i=1}^{n} i = \frac{n(n+1)}{2}$
 	
 	- $\sum_{i=1}^{n} constant \; or \; n = n^2$
@@ -52,8 +51,8 @@ $$\large\sum_{i=1}^{n} i$$
 ![[Sum-Equations.png]]
 ## Insertion Sort
 
-**Input:**  The program accepts a sequence of numbers denoted by `a1, a2, ..., an`.
-**Output:** The program outputs a permutation (reordering) of the input sequence such that` a1 ≤ a2 ≤ ... ≤ an`. In other words, the output should be the original sequence `in increasing order`.
+- **Input:**  The program accepts a sequence of numbers denoted by `a1, a2, ..., an`.
+- **Output:** The program outputs a permutation (reordering) of the input sequence such that` a1 ≤ a2 ≤ ... ≤ an`. In other words, the output should be the original sequence `in increasing order`.
 
 ```c++
 void insertionSort(int arr[], int n) {

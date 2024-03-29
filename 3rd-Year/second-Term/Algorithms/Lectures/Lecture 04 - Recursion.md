@@ -64,12 +64,13 @@ int Fact(int n) {
   - $h = \text{height of the tree}$
 ##### 3. Geometric
 - If the `difference` between levels values is a `multiplication` or `division`:
-	- **Division:** $\large T_{tree} = \frac{1}{2} + \frac{1}{4} + \frac{1}{8} + \ldots$
+- **Division:** 
+	- $\large T_{tree} = \frac{1}{2} + \frac{1}{4} + \frac{1}{8} + \ldots$
 	- $L_1 = \text{value of level } 1$
 	- $r = \text{multiplied value}$
 $$\large T(n) = \frac{L_1}{1 - r}$$
-  - **Multiplication:**
-    - Tree: $1 + 2 + 4 + 8 + \ldots$
+- **Multiplication:**
+	- Tree: $1 + 2 + 4 + 8 + \ldots$
     - $L_1 = \text{value of level } 1$
     - $r = \text{multiplied value}$
     - $h = \text{height}$

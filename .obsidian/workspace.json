@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3rd-Year/second-Term/Algorithms/Lectures/Lecture 03 - Asymptotic Notations.md",
+                "file": "3rd-Year/second-Term/Algorithms/Lectures/Lecture 04 - Recursion.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/Algorithms/Lectures/Lecture 03 - Asymptotic Notations.md",
+                "file": "3rd-Year/second-Term/Algorithms/Lectures/Lecture 04 - Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/Algorithms/Lectures/Lecture 03 - Asymptotic Notations.md",
+                "file": "3rd-Year/second-Term/Algorithms/Lectures/Lecture 04 - Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/Algorithms/Lectures/Lecture 03 - Asymptotic Notations.md"
+                "file": "3rd-Year/second-Term/Algorithms/Lectures/Lecture 04 - Recursion.md"
               }
             }
           }
@@ -149,11 +149,12 @@
   },
   "active": "c2c10bb7d98c6e8b",
   "lastOpenFiles": [
-    "3rd-Year/second-Term/Algorithms/Lectures/Lecture 04 - Recursion.md",
     "3rd-Year/second-Term/Algorithms/Lectures/Lecture 03 - Asymptotic Notations.md",
-    "3rd-Year/second-Term/Algorithms/img/o-notation.png",
     "3rd-Year/second-Term/Algorithms/Lectures/Lecture 02 - Running time.md",
+    "3rd-Year/second-Term/Algorithms/Lectures/Lecture 04 - Recursion.md",
+    "3rd-Year/second-Term/Algorithms/img/Recursive Functions.png",
     "3rd-Year/second-Term/Algorithms/Lectures/Lecture 01 - Introduction.md",
+    "3rd-Year/second-Term/Algorithms/img/o-notation.png",
     "3rd-Year/second-Term/Algorithms/Sheets/Answer Sheet 02 - Asymptotic Notations.md",
     "3rd-Year/second-Term/Software 2/Lectures/Chapter 08 - Software Testing.md",
     "3rd-Year/second-Term/Software 2/Lectures/Chapter 10 - Dependable Systems.md",
@@ -186,7 +187,6 @@
     "3rd-Year/second-Term/Software 2/Lectures/img/Equivalence Partitioning.png",
     "3rd-Year/second-Term/Software 2/Lectures/img",
     "3rd-Year/second-Term/Software 2/Lectures/img/Inspections.png",
-    "Pasted image 20240322030731.png",
     "3rd-Year/second-Term/Software 2/Lectures",
     "3rd-Year/second-Term/Software 2",
     "3rd-Year/second-Term/Machine learning/Lectures/img",

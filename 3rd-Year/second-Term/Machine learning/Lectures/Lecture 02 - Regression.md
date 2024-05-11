@@ -12,7 +12,7 @@
 ## 📊 What is Regression?
 
 - Regression is a `statistical approach` for modeling the relationship between some variables $x$ `features` and some real-valued `outcome` $y$.
-	![[Regression.png]]
+	![[3rd-Year/second-Term/Machine learning/Lectures/img/Regression.png]]
 ## Regression Types
 
 - **Linear Regression**

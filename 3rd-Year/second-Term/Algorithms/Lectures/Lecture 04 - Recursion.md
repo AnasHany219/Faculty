@@ -45,24 +45,24 @@ int Fact(int n) {
 	- If the recursion part `contains subtraction`: $height = n$
 1. Compute the value of each level `non-recursive part`.
 2. Compute the whole value of the tree.
-#### Example: $T(n) = 2T(n/2) + n$
+##### Example: $T(n) = 2T(n/2) + n$
 - Tree: $1 + 2 + 4 + ...$
 - $T(n) = n \log_2 n$
 
-#### Methods for Computing Tree Value
-##### 1. Summation
+##### Methods for Computing Tree Value
+###### 1. Summation
 - If `all` values of levels are `equal`:
   $$T(n) = \sum_{i=1}^{height}\text{level value}$$
   - $L_0 = n,\ L_1 = n,\ L_2 = n$
   $$T(n) = \sum_{i=1}^{log_2 \ n}n = n \log_2 n = O(n\ logn)$$
-##### 2. Arithmetic
+###### 2. Arithmetic
 - If the `difference` between levels values is a `sum` or `subtraction`:
   $$T(n) = h(\frac{(L_1 + L_{n})}{2})$$
   - Tree: $1 + 3 + 5 + 7 + \ldots$
   - $L_1 = \text{value of level } 1$
   - $L_{n} = \text{value of last level}$
   - $h = \text{height of the tree}$
-##### 3. Geometric
+###### 3. Geometric
 - If the `difference` between levels values is a `multiplication` or `division`:
 - **Division:** 
 	- $\large T_{tree} = \frac{1}{2} + \frac{1}{4} + \frac{1}{8} + \ldots$

@@ -13,8 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Section/Section 9 - Clustering K-mean.md",
+                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "79da5ebf9975bad0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83d59489687091bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 284.5,
+    "collapsed": true
   },
   "right": {
     "id": "497e50e10713b051",
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Section/Section 9 - Clustering K-mean.md",
+                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Section/Section 9 - Clustering K-mean.md",
+                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-Year/second-Term/Machine learning/Section/Section 9 - Clustering K-mean.md"
+                "file": "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md"
               }
             }
           }
@@ -149,11 +168,14 @@
   },
   "active": "c2c10bb7d98c6e8b",
   "lastOpenFiles": [
-    "README.md",
+    "3rd-Year/second-Term/Security/Chapter 2 - Classical Encryption Techniques.md",
+    "3rd-Year/second-Term/Security/Chapter 1 - Introduction.md",
+    "3rd-Year/second-Term/Security/Chapter 3 - Block Cipher and Data Encryption Standard (DES).md",
+    "3rd-Year/second-Term/Machine learning/Section/Section 8 - Voting Classifier.md",
     "3rd-Year/second-Term/Machine learning/Section/Section 9 - Clustering K-mean.md",
+    "README.md",
     "3rd-Year/second-Term/Machine learning/Section/img/K-Means Clustering.png",
     "3rd-Year/second-Term/Algorithms/Lectures/Lecture 03 - Asymptotic Notations.md",
-    "3rd-Year/second-Term/Machine learning/Section/Section 8 - Voting Classifier.md",
     "3rd-Year/second-Term/Machine learning/Section/img/Voting Classifier.png",
     "3rd-Year/second-Term/Machine learning/Section/Section 7 - 3 - Decision Tree.md",
     "3rd-Year/second-Term/Machine learning/Section/Section 7 - 2 - Kfold.md",
@@ -177,8 +199,6 @@
     "3rd-Year/second-Term/Algorithms/img/o-notation.png",
     "3rd-Year/second-Term/Software 2/Lectures/Chapter 08 - Software Testing.md",
     "3rd-Year/second-Term/Software 2/Lectures/Chapter 10 - Dependable Systems.md",
-    "3rd-Year/second-Term/Software 2/Lectures/Chapter 09 - Software Evolution.md",
-    "3rd-Year/second-Term/Android/Lectures/Lecture 4 - Flutter Widget.md",
     "3rd-Year/second-Term/Machine learning/Lectures/img/Least Squares.png",
     "3rd-Year/second-Term/Machine learning/Lectures/img/ML-Applications.png",
     "3rd-Year/second-Term/Machine learning/Lectures/img/Gradient Descent.png",

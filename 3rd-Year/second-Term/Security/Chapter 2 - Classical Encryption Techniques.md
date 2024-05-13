@@ -121,7 +121,7 @@ L P Q S T
 U V W X Z
 ```
 ##### Step 2: Prepare the Plaintext
-- Remove spaces and punctuation from the plaintext: "PLEASET RANSF ERONEM ILLIOND OLLAR"
+- Remove spaces and punctuation from the plaintext: "PLEASETRANSFERONEMILLIONDOLLAR"
 ##### Step 3: Break Plaintext into Pairs
 - Break the prepared plaintext into pairs of characters (digraphs):
 	``` PL EA SE TR AN SF ER ON EM IL LI ON DO LX LA RX ```
